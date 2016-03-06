@@ -420,3 +420,11 @@ there.
 img.thumb {
 	width: 100%;
 }
+
+.nav .button {
+	margin-right: 1em;
+}
+
+.raw-viz .row + h5 {
+	margin-top: 2em;
+}
