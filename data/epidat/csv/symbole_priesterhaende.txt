@@ -1,0 +1,443 @@
+Name,Address,Description,Longitude,Latitude,TimeStamp,TimeSpan:begin,TimeSpan:end,GettyID,Symbol,Gender
+Elieser ben Josef  Hakohen; Jehuda,Ahaus,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=aha-13'>aha-13</a>,7.004256,52.077701,1879,,,7005987,Priesterhände,Mann
+Josef ben Elieser Hakohen,Ahaus,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=aha-21'>aha-21</a>,7.004256,52.077701,1895,,,7005987,Priesterhände,Mann
+Jischai ben Josef Hakohen,Ahaus,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=aha-50'>aha-50</a>,7.004256,52.077701,1929,,,7005987,Priesterhände,Mann
+Naftali ben Jizchak KaZ (Hertz Meyer / Hertz Isaac),Altena,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=alt-10'>alt-10</a>,7.671876,51.304016,1743,,,7006098,Priesterhände,Mann
+Meir ben Naftali ben Jizchak [KaZ] (Meyer Hertz),Altena,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=alt-11'>alt-11</a>,7.671876,51.304016,1756,,,7006098,Priesterhände,Mann
+[Schlomo] Salman ben Meir KaZ (Salomon Meyer),Altena,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=alt-7'>alt-7</a>,7.671876,51.304016,1802,,,7006098,Priesterhände,Mann
+Meir ben Naftali (Meyer Herzberg),Altena,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=alt-33'>alt-33</a>,7.671876,51.304016,1862,,,7006098,Priesterhände,Mann
+Schlomo ben Jizchak Hakohen (Salomon Mayberg),Altena,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=alt-20'>alt-20</a>,7.671876,51.304016,1873,,,7006098,Priesterhände,Mann
+Meir ben Jizchak Hakohen (Max Herzberg),Altena,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=alt-24'>alt-24</a>,7.671876,51.304016,1888,,,7006098,Priesterhände,Mann
+Reuwen ben Schlomo KaZ (Selig Mayberg),Altena,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=alt-25'>alt-25</a>,7.671876,51.304016,1889,,,7006098,Priesterhände,Mann
+Meir ben Schlomo KaZ (Mayer Mayberg),Altena,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=alt-36'>alt-36</a>,7.671876,51.304016,1894,,,7006098,Priesterhände,Mann
+Jizchak ben Awraham Hakohen (Isac Kahn),Bad Münstereifel-Arloff,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=arl-4'>arl-4</a>,6.800081,50.59517,1890,,,7012589,Priesterhände,Mann
+Awraham ben Jizchak Hakohen (Abraham Kahn),Bad Münstereifel-Arloff,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=arl-10'>arl-10</a>,6.800081,50.59517,1908,,,7012589,Priesterhände,Mann
+Jizchak ben Awraham Hakohen (Isidor Kahn),Bad Münstereifel-Arloff,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=arl-9'>arl-9</a>,6.800081,50.59517,1920,,,7012589,Priesterhände,Mann
+Zwi [Hakohen] (Hirsch Sänger),Bayreuth,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bay-384'>bay-384</a>,11.594224,49.934064,1793,,,7004326,Priesterhände,Mann
+Zwi ben Natan Hakohen (Hirsch Sänger),Bayreuth,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bay-536'>bay-536</a>,11.594224,49.934064,1867,,,7004326,Priesterhände,Mann
+Josef Kohen (Joseph Kohn),Bayreuth,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bay-574'>bay-574</a>,11.594224,49.934064,1877,,,7004326,Priesterhände,Mann
+Issachar ben Gerschon Hakohen (Bernhard Cahn),Bayreuth,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bay-657'>bay-657</a>,11.594224,49.934064,1888,,,7004326,Priesterhände,Mann
+Jehuda ben Schmuel KaZ (Samuel Jacoby),Beelitz,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bee-1'>bee-1</a>,12.97412,52.236477,1843,,,1036422,Priesterhände,Mann
+Arje ben Jehuda KaZ (Louis Jacoby),Beelitz,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bee-17'>bee-17</a>,12.97412,52.236477,1844,,,1036422,Priesterhände,Mann
+Mosche Koppel ben Kalman Kohen,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-123'>bng-123</a>,7.89771,49.962935,1750,,,7012309,Priesterhände,Mann
+Mosche ben David KaZ,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-440'>bng-440</a>,7.89771,49.962935,1758,,,7012309,Priesterhände,Mann
+Löb ben Koppel Kohen,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-128'>bng-128</a>,7.89771,49.962935,1763,,,7012309,Priesterhände,Mann
+Salman ben Lejser Adler KaZ (Salman Adler  KaZ),Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-505'>bng-505</a>,7.89771,49.962935,1781,,,7012309,Priesterhände,
+Salman ben Schmuel KaZ,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-114'>bng-114</a>,7.89771,49.962935,1783,,,7012309,Priesterhände,Mann
+Löb ben Leser KaZ,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-155'>bng-155</a>,7.89771,49.962935,1794,,,7012309,Priesterhände,Mann
+Awraham ben Schmuel Burg? KaZ,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-113'>bng-113</a>,7.89771,49.962935,1795,,,7012309,Priesterhände,Mann
+Koppel ben Mosche Rofe KaZ,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-408'>bng-408</a>,7.89771,49.962935,1820,,,7012309,Priesterhände,Mann
+Baruch ben Löb Kohen,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-136'>bng-136</a>,7.89771,49.962935,1825,,,7012309,Priesterhände,Mann
+Koppel ben Löb Kohen,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-129'>bng-129</a>,7.89771,49.962935,1827,,,7012309,Priesterhände,Mann
+Gumprich ben Leiser KaZ,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-138'>bng-138</a>,7.89771,49.962935,1827,,,7012309,Priesterhände,Mann
+David ben Schlomo Proops Hakohen,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-66'>bng-66</a>,7.89771,49.962935,1837,,,7012309,Priesterhände,Mann
+Ascher Zwi ben Jaakow Awram Hakohen,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-154'>bng-154</a>,7.89771,49.962935,1851,,,7012309,Priesterhände,Mann
+Awraham ben Uri Hakohen (Abraham Siegel); Igla bat Meir (Eva Siegel geb. Rheinstrom),Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-841'>bng-841</a>,7.89771,49.962935,1873,,,7012309,Priesterhände,Mann Frau
+Aharon ben Josef Hakohen (Alfred Kahn),Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-6'>bng-6</a>,7.89771,49.962935,1874,,,7012309,Priesterhände,Mann
+... ben Jizchak (Michael Kahn),Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-800'>bng-800</a>,7.89771,49.962935,1884,,,7012309,Priesterhände,Mann
+Josef Kohen (Julius Kahn),Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-717'>bng-717</a>,7.89771,49.962935,1889,,,7012309,Priesterhände,Mann
+Schimon ben Awraham Siegel (Eduard Siegel); Perel ∞ Schimon Siegel (Pauline Siegel geb.ne Meyer),Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-577'>bng-577</a>,7.89771,49.962935,1891,,,7012309,Priesterhände,Mann Frau
+Jehuda KaZ (Juda Hirsch),Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-713'>bng-713</a>,7.89771,49.962935,1892,,,7012309,Priesterhände,Mann
+Eugen Kahn,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-578'>bng-578</a>,7.89771,49.962935,1892,,,7012309,Priesterhände,Mann
+Josef [Kohen] (Josef Kohn); Sara bat Schmuel ∞ Josef Hakohen (Rosalie Kohn geb. Bär),Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-712'>bng-712</a>,7.89771,49.962935,1893,,,7012309,Priesterhände,
+Awraham ben Mosche Hakohen (Joseph Sommer); Henriette Sommer,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-604'>bng-604</a>,7.89771,49.962935,1907,,,7012309,Priesterhände,Mann
+[Jaakow] (Jacob Kahn III),Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-628'>bng-628</a>,7.89771,49.962935,1915,,,7012309,Priesterhände,unknown
+Ascher ben Jaakow Hakohen (Emil Kahn),Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-747'>bng-747</a>,7.89771,49.962935,1932,,,7012309,Priesterhände,Mann
+Lilli Hohmann; Fritz Hohmann,Bingen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bng-901'>bng-901</a>,7.89771,49.962935,1942,,,7012309,Priesterhände,Mann
+Jizchak ben Aharon KaZ,Blieskastel,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sb3-61'>sb3-61</a>,7.254151,49.240733,1811,,,1038561,Priesterhände,Mann
+Seligman ben Jaakow Hakohen,Blieskastel,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sb3-130'>sb3-130</a>,7.254151,49.240733,1855,,,1038561,Priesterhände,Mann
+Jizchak ben Awraham Hakohen (Isaak Wolf),Blieskastel,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sb3-237'>sb3-237</a>,7.254151,49.240733,1904,,,1038561,Priesterhände,Mann
+Elieser Sohn von Benjamin Hakohen,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-5343'>bns-5343</a>,7.105364,50.75727,1673,,,4010239,Priesterhände,
+Jizchak Sohn von Issachar KaZ und Rochle Tochter von Sekle SeGaL,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-4135'>bns-4135</a>,7.105364,50.75727,1705,,,4010239,Priesterhände,
+Sara Zerle bat Mosche Hakohen ∞ Libermann Hakohen,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-4106'>bns-4106</a>,7.105364,50.75727,1751,,,4010239,Priesterhände,Frau
+Hirsch Jonas,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-4109'>bns-4109</a>,7.105364,50.75727,1760,,,4010239,Priesterhände,
+Mordechai ben Jizchak Hakohen (Markus Cahn),Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-1052'>bns-1052</a>,7.105364,50.75727,1769,,,4010239,Priesterhände,Mann
+Jehuda ben Aharon Hakohen (Löb Aaron Worms),Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-5350'>bns-5350</a>,7.105364,50.75727,1781,,,4010239,Priesterhände,Mann
+Jacob Koppel Sohn des Elieser Hakohen,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-5341'>bns-5341</a>,7.105364,50.75727,1783,,,4010239,Priesterhände,
+R Isaak Kahana Rapaport,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-4022'>bns-4022</a>,7.105364,50.75727,1788,,,4010239,Priesterhände,
+Noe Cahn,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-4035'>bns-4035</a>,7.105364,50.75727,1790,,,4010239,Priesterhände,
+Löb Chan,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-4037'>bns-4037</a>,7.105364,50.75727,1799,,,4010239,Priesterhände,
+Jonas Cahn,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-4110'>bns-4110</a>,7.105364,50.75727,1819,,,4010239,Priesterhände,
+Moses Wallerstein,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-4100'>bns-4100</a>,7.105364,50.75727,1837,,,4010239,Priesterhände,
+Feis ben Meschullam Hakohen [(Feist Sussmann)Feist Sussmann,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-5373'>bns-5373</a>,7.105364,50.75727,1842,,,4010239,Priesterhände,
+Balthasar Baruch Cahn,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-3124'>bns-3124</a>,7.105364,50.75727,1848,,,4010239,Priesterhände,
+Baruch Kohen aus Berlin (Joseph Baruch Cohn),Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-1013'>bns-1013</a>,7.105364,50.75727,1848,,,4010239,Priesterhände,Mann
+Lambert Cahn,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-4063'>bns-4063</a>,7.105364,50.75727,1851,,,4010239,Priesterhände,
+Samson Cahn,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-4038'>bns-4038</a>,7.105364,50.75727,1856,,,4010239,Priesterhände,
+Heinrich Cahn,Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-4032'>bns-4032</a>,7.105364,50.75727,1858,,,4010239,Priesterhände,
+Josef ben Mosche Wallerstein (Joseph Wallerstein),Bonn-Schwarzrheindorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bns-5351'>bns-5351</a>,7.105364,50.75727,1869,,,4010239,Priesterhände,Mann
+Jizchak S. Jizchak Hakohen / Isaac Bock,Bornheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bor-100'>bor-100</a>,6.987414,50.75759,1788,,,1038605,Priesterhände,
+Mosche Elieser gen. Mosche Leiser Hakohen / Moses Bock,Bornheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bor-106'>bor-106</a>,6.987414,50.75759,1838,,,1038605,Priesterhände,
+Schimon S. Mosche Elieser Hakohen / Simon Bock,Bornheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bor-102'>bor-102</a>,6.987414,50.75759,1852,,,1038605,Priesterhände,
+Reuwen S. Binjamin Hakohen / Seligmann Cahn,Bornheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bor-82'>bor-82</a>,6.987414,50.75759,1877,,,1038605,Priesterhände,
+Jizchak S. Binjamin Hakohen / Isak Cahn,Bornheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bor-68'>bor-68</a>,6.987414,50.75759,1882,,,1038605,Priesterhände,
+Ascher S. Jechiel Hakohen / Andreas Katz,Bornheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bor-67'>bor-67</a>,6.987414,50.75759,1883,,,1038605,Priesterhände,
+Binjamin S. Reuwen Hakohen / Wolf Cahn,Bornheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bor-65'>bor-65</a>,6.987414,50.75759,1885,,,1038605,Priesterhände,
+Josef S. Jizchak Hakohen / Joseph Cahn,Bornheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bor-38'>bor-38</a>,6.987414,50.75759,1897,,,1038605,Priesterhände,
+Awraham Jehuda S. Jizchak Hakohen / Abraham Löb Berliner,Bornheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bor-32'>bor-32</a>,6.987414,50.75759,1904,,,1038605,Priesterhände,
+Jacob Cahn,Bornheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bor-42'>bor-42</a>,6.987414,50.75759,1920,,,1038605,Priesterhände,
+Moses Cahn,Bornheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bor-21'>bor-21</a>,6.987414,50.75759,1921,,,1038605,Priesterhände,
+Ascher S. Baruch Hakohen / Andreas Marx,Bornheim-Hersel,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hrs-30'>hrs-30</a>,6.916017,50.721959,1858,,,1038605,Priesterhände,
+Jechiel S. Baruch Hakohen / Emanuel Marx,Bornheim-Hersel,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hrs-29'>hrs-29</a>,6.916017,50.721959,1858,,,1038605,Priesterhände,
+Josef Jaakow S. Baruch Hakohen / Karl Marx,Bornheim-Hersel,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hrs-26'>hrs-26</a>,6.916017,50.721959,1858,,,1038605,Priesterhände,
+Jechiel KaZ / Michel Katz,Bornheim-Walberberg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=wal-7'>wal-7</a>,6.90509,50.792193,1856,,,4011994,Priesterhände,
+Jehuda ben Jizchak Hakohen,Boxmeer/Vierlingsbeek,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e51-22'>e51-22</a>,6.001222,51.596031,1844,,,1047672,Priesterhände,Mann
+Arje ben Jehuda Hakohen,Boxmeer/Vierlingsbeek,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e51-26'>e51-26</a>,6.001222,51.596031,1860,,,1047672,Priesterhände,Mann
+Mosche Jizchak ben Jehuda Hakohen,Boxmeer/Vierlingsbeek,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e51-20'>e51-20</a>,6.001222,51.596031,1861,,,1047672,Priesterhände,Mann
+Jeschaja ben Schlomo Hakohen (J. Karp),Brühl,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=brh-75'>brh-75</a>,6.907039,50.83361,1904,,,7012417,Priesterhände,Mann
+Natan ben Jaakow Seligsohn (Nathan Seligsohn),Chemnitz,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=che-506'>che-506</a>,12.889473,50.828331,1890,,,7005951,Priesterhände,Mann
+Josef ben Josef Sohn des toragelehrten Herrn Jehuda Hakohen (Joseph Kirsch),Chemnitz,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=che-527'>che-527</a>,12.889473,50.828331,1895,,,7005951,Priesterhände,Mann
+Jizchak ben Aharon Hakohen (Isaak Aron Rappaport),Chemnitz,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=che-624'>che-624</a>,12.889473,50.828331,1909,,,7005951,Priesterhände,Mann
+Jaakow ben Dow Hakohen (Jakob Bärmann),Chemnitz,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=che-625'>che-625</a>,12.889473,50.828331,1909,,,7005951,Priesterhände,Mann
+Schimon ben Aharon Hakohen Brandler (Simon Brandler),Chemnitz,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=che-376'>che-376</a>,12.889473,50.828331,1919,,,7005951,Priesterhände,Mann
+Alter Abba ben Schlomo Hakohen,Chemnitz,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=che-313'>che-313</a>,12.889473,50.828331,1923,,,7005951,Priesterhände,Mann
+Wilhelm Leder; Rosa Leder,Chemnitz,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=che-736'>che-736</a>,12.889473,50.828331,1924,,,7005951,Priesterhände,Mann Frau
+Hedwig Kohnke geb. Meseritz; Paul Kohnke,Chemnitz,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=che-228'>che-228</a>,12.889473,50.828331,1928,,,7005951,Priesterhände,Mann Frau
+Jehuda ben Schmarja Hakohen (Leopold Goldner),Chemnitz,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=che-17'>che-17</a>,12.889473,50.828331,1935,,,7005951,Priesterhände,Mann
+Hermann Schendel,Chemnitz,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=che-160'>che-160</a>,12.889473,50.828331,1936,,,7005951,Priesterhände,Mann
+Zwi Diamant (Hersz Diamant); Lea Diamant (Lore Diamant geb. Silberstein); und 20 Familienangehörigen,Chemnitz,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=che-69'>che-69</a>,12.889473,50.828331,1944,,,7005951,Priesterhände,Mann Frau
+Aharon ben Mordechai Hakohen (Adolph Marx Cahen),Dillingen-Diefflen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=dds-204'>dds-204</a>,6.753313,49.369234,1870,,,1038818,Priesterhände,Mann
+Mosche ben Naftali Hakohen (Moses Kahn),Dillingen-Diefflen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=dds-70'>dds-70</a>,6.753313,49.369234,1875,,,1038818,Priesterhände,Mann
+Mosche ben Awraham Hakohen ([R.] Moses Cahen),Dillingen-Diefflen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=dds-18'>dds-18</a>,6.753313,49.369234,1883,,,1038818,Priesterhände,Mann
+Menl ben Naftali Hakohen (Emanuel Kahn),Dillingen-Diefflen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=dds-478'>dds-478</a>,6.753313,49.369234,1889,,,1038818,Priesterhände,Mann
+... ben Mosche Hakohen (Jakob Kahn),Dillingen-Diefflen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=dds-449'>dds-449</a>,6.753313,49.369234,1893,,,1038818,Priesterhände,Mann
+Akiwa ben Mosche Hakohen (Joseph Kahn),Dillingen-Diefflen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=dds-427'>dds-427</a>,6.753313,49.369234,1897,,,1038818,Priesterhände,Mann
+Schlomo ben Menachem (Salomon Michel),Dillingen-Diefflen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=dds-334'>dds-334</a>,6.753313,49.369234,1907,,,1038818,Priesterhände,Mann
+Kibe ben Naftali Hakohen (Jakob Kahn),Dillingen-Diefflen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=dds-328'>dds-328</a>,6.753313,49.369234,1908,,,1038818,Priesterhände,Mann
+Chajim ben Schmuel Hakohen (Hermann Cahn); Julius Marx; Paula geb. Kahn,Dillingen-Diefflen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=dds-289'>dds-289</a>,6.753313,49.369234,1917,,,1038818,Priesterhände,Mann
+Naftali ben Zwi Hakohen (Willi Mengen),Dillingen-Diefflen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=dds-174'>dds-174</a>,6.753313,49.369234,1921,,,1038818,Priesterhände,Mann
+Albert Katz,Dormagen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e03-11'>e03-11</a>,6.834092,51.100669,1926,,,1038848,Priesterhände,Mann
+Robert Katz,Dormagen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e03-14'>e03-14</a>,6.834092,51.100669,1933,,,1038848,Priesterhände,Mann
+Naftali ben ... Hakohen (Wilhelm Gottlieb),Erfurt,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=erf-116'>erf-116</a>,11.038496,50.957207,1879,,,7024031,Priesterhände,Mann
+Mosche ben Feiwel Nussbaum (Moses Nussbaum),Erfurt,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=erf-122'>erf-122</a>,11.038496,50.957207,1881,,,7024031,Priesterhände,Mann
+Mosche ben Löb Jolles Hakohen (Moritz Jolles),Erfurt,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=erf-142'>erf-142</a>,11.038496,50.957207,1901,,,7024031,Priesterhände,Mann
+Mosche ben Menachem Hakohen (Moritz Max Rosenheimer),Erfurt,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=erf-275'>erf-275</a>,11.038496,50.957207,1904,,,7024031,Priesterhände,Mann
+Elijahu ben Jizchak Hakohen (Eduard Cohn),Erfurt,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=erf-286'>erf-286</a>,11.038496,50.957207,1906,,,7024031,Priesterhände,Mann
+Pinchas ben Binjamin Nachgeher (Pinkas Nachgeher),Erfurt,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=erf-474'>erf-474</a>,11.038496,50.957207,1923,,,7024031,Priesterhände,Mann
+Jehuda ben Zwi Hakohen (Julius Salberg),Erfurt,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=erf-475'>erf-475</a>,11.038496,50.957207,1923,,,7024031,Priesterhände,Mann
+Schlomo ben Meir Hakohen (Salman Kohen),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-2235'>ffb-2235</a>,8.689675,50.1119,1546,,,7005293,Priesterhände,Mann
+Mosche Uri ben Kalonymos Hakohen,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-2059'>ffb-2059</a>,8.689675,50.1119,1571,,,7005293,Priesterhände,Mann
+[R.] Kalman [Hakohen],Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-2225'>ffb-2225</a>,8.689675,50.1119,1583,,,7005293,Priesterhände,unknown
+Mosche Natan ben Kalonymos Hakohen (Natan Kohen),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-2227'>ffb-2227</a>,8.689675,50.1119,1585,,,7005293,Priesterhände,Mann
+Anschel Ascher ben Schimon Hakohen,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-2239'>ffb-2239</a>,8.689675,50.1119,1586,,,7005293,Priesterhände,Mann
+Jaakow ben Efraim,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-3065'>ffb-3065</a>,8.689675,50.1119,1587,,,7005293,Priesterhände,Mann
+Mosche Uri ben Natan Mosche Hakohen (Feibesch Kohen),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-2161'>ffb-2161</a>,8.689675,50.1119,1591,,,7005293,Priesterhände,Mann
+Naftali ben Eljakim Hakohen (Hirz Spiegel),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-3496'>ffb-3496</a>,8.689675,50.1119,1596,,,7005293,Priesterhände,Mann
+Naftali ben Mosche Natan Hakohen (Hirz Cohen),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-188'>ffb-188</a>,8.689675,50.1119,1620,,,7005293,Priesterhände,Mann
+Elieser ben Schimon Hakohen (Lipman zum Storch),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-972'>ffb-972</a>,8.689675,50.1119,1633,,,7005293,Priesterhände,Mann
+Schlomo ben Mosche Natan Hakohen (Salman KaZ),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-1285'>ffb-1285</a>,8.689675,50.1119,1637,,,7005293,Priesterhände,Mann
+Ascher ben Elesar HaKohen,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-938'>ffb-938</a>,8.689675,50.1119,1654,,,7005293,Priesterhände,Mann
+Schimon ben Elieser KaZ (Wolf Storch KaZ),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-954'>ffb-954</a>,8.689675,50.1119,1681,,,7005293,Priesterhände,Mann
+Jaakow ben Naftali  KaZ (Jokkel Kohen),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-1429'>ffb-1429</a>,8.689675,50.1119,1718,,,7005293,Priesterhände,Mann
+Meir ben Juspa Spiegel KaZ (Meir Spiegel KaZ),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-5002'>ffb-5002</a>,8.689675,50.1119,1736,,,7005293,Priesterhände,Mann
+[R.] Jaakow KaZ aus Prag,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-75'>ffb-75</a>,8.689675,50.1119,1740,,,7005293,Priesterhände,unknown
+Jechiel ben Jischai Scheyer KaZ,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-254'>ffb-254</a>,8.689675,50.1119,1741,,,7005293,Priesterhände,Mann
+Tewle ben Awram KaZ [Scheyer],Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-227'>ffb-227</a>,8.689675,50.1119,1743,,,7005293,Priesterhände,Mann
+Leiser ben Natan Adler KaZ zum goldenen Herz,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-1243'>ffb-1243</a>,8.689675,50.1119,1746,,,7005293,Priesterhände,Mann
+Mordechai Glogau KaZ,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-1382'>ffb-1382</a>,8.689675,50.1119,1747,,,7005293,Priesterhände,Mann
+Kalman ben Meir Falk KaZ,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-2584'>ffb-2584</a>,8.689675,50.1119,1759,,,7005293,Priesterhände,Mann
+Mosche ben Awram Scheyer KaZ,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-250'>ffb-250</a>,8.689675,50.1119,1759,,,7005293,Priesterhände,Mann
+Koppel,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-1238'>ffb-1238</a>,8.689675,50.1119,1763,,,7005293,Priesterhände,Mann
+Schlomo ben Schlomo Kohen,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-1705'>ffb-1705</a>,8.689675,50.1119,1769,,,7005293,Priesterhände,Mann
+Löb ben Schmuel ben Henle Schuster KaZ,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-655'>ffb-655</a>,8.689675,50.1119,1773,,,7005293,Priesterhände,Mann
+Hirsch ben Schlomo Kohen,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-1664'>ffb-1664</a>,8.689675,50.1119,1795,,,7005293,Priesterhände,Mann
+[Meir] ben Kalman Falke KaZ,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-1282'>ffb-1282</a>,8.689675,50.1119,1795,,,7005293,Priesterhände,Mann
+[R.] Natan ben Schimon Adler KaZ,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-81'>ffb-81</a>,8.689675,50.1119,1800,,,7005293,Priesterhände,Mann
+Grabmal,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-3876'>ffb-3876</a>,8.689675,50.1119,1807,,,7005293,Priesterhände,
+Meir ben Mosche Schiff KaZ,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-3437'>ffb-3437</a>,8.689675,50.1119,1807,,,7005293,Priesterhände,Mann
+Natan ben Michael Kohen (Natan Kohen),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-5530'>ffb-5530</a>,8.689675,50.1119,1811,,,7005293,Priesterhände,Mann
+Salman ben Hirz Schiff KaZ (Salman Schiff),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-6340'>ffb-6340</a>,8.689675,50.1119,1814,,,7005293,Priesterhände,Mann
+Tewle ben Natan Kohen KaZ (Tewle Kohen),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-5155'>ffb-5155</a>,8.689675,50.1119,1814,,,7005293,Priesterhände,Mann
+Mosche ben Hirz Schiff KaZ,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-2220'>ffb-2220</a>,8.689675,50.1119,1815,,,7005293,Priesterhände,Mann
+Feis ben Feis Frank Schiff KaZ (Feis Frank),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-2102'>ffb-2102</a>,8.689675,50.1119,1816,,,7005293,Priesterhände,Mann
+Selkle ben Falk KaZ,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-1261'>ffb-1261</a>,8.689675,50.1119,1818,,,7005293,Priesterhände,Mann
+Mosche ben Selkle Schwarzadler KaZ,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffb-3730'>ffb-3730</a>,8.689675,50.1119,1821,,,7005293,Priesterhände,Mann
+Elieser (genannt Lippmann Wolf) ben Binjamin Hakohen,Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffs-252'>ffs-252</a>,8.647792,50.124557,1833,,,7005293,Priesterhände,Mann
+[...] Hakohen Ca[nthal (Löb Canthal),Frankfurt am Main,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffs-33'>ffs-33</a>,8.647792,50.124557,1895,,,7005293,Priesterhände,unknown
+Menachem ben Mosche Schnadig Hakohen,Frankfurt am Main-Heddernheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffh-127'>ffh-127</a>,8.637539,50.154075,1865,,,7005293,Priesterhände,Mann
+Joseph Kahn KaZ (Joseph Cahn),Frankfurt am Main-Heddernheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ffh-157'>ffh-157</a>,8.637539,50.154075,1881,,,7005293,Priesterhände,Mann
+Menachem ben Jekutiel Hakohen (Hermann Cain),Geldern,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e05-4'>e05-4</a>,6.332315,51.524202,1863,,,1039217,Priesterhände,Mann
+Jaakow ben Naftali Hakohen (Jacob Jacob),Geldern,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e05-81'>e05-81</a>,6.332315,51.524202,1906,,,1039217,Priesterhände,Mann
+Aharon ben Awraham Kohen,Gennep,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e52-7'>e52-7</a>,5.967222,51.695833,1830,,,7262133,Priesterhände,Mann
+Awraham ben Mosche Elieser KaZ Hartog,Gennep,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e52-11'>e52-11</a>,5.967222,51.695833,1856,,,7262133,Priesterhände,Mann
+Manes ben Awraham KaZ (Emanuel Katz),Geseke,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=gsk-4'>gsk-4</a>,8.505151,51.645134,1770,,,7012478,Priesterhände,Mann
+Emanuel Rosenthal,Geseke,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=gsk-25'>gsk-25</a>,8.505151,51.645134,1879,,,7012478,Priesterhände,Mann
+Jehuda ben Awraham Hakohen (Levi Rosenthal),Geseke,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=gsk-32'>gsk-32</a>,8.505151,51.645134,1884,,,7012478,Priesterhände,Mann
+Zwi ben  Menachem [ha-Kohen] (Hermann Rosenthal),Geseke,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=gsk-58'>gsk-58</a>,8.505151,51.645134,1895,,,7012478,Priesterhände,Mann
+Bernhard Rosenthal,Geseke,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=gsk-88'>gsk-88</a>,8.505151,51.645134,1912,,,7012478,Priesterhände,Mann
+Gerschon ben Schmuel Hakohen (Gustav Kahn),Gonnesweiler,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=gws-18'>gws-18</a>,7.082233,49.565654,1881,,,7185625,Priesterhände,Mann
+Schmuel ben ... Hakohen (Sa[muel Ka?]hn),Gonnesweiler,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=gws-14'>gws-14</a>,7.082233,49.565654,1883,,,7185625,Priesterhände,Mann
+Baruch ben Jehuda Hakohen,Haigerloch,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hgl-362'>hgl-362</a>,8.807413,48.36392,1818,,,1039436,Priesterhände,Mann
+Mosche KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2541'>hha-2541</a>,9.950545,53.549373,1632,,,7012310,Priesterhände,Mann
+Elijahu ben David KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3338'>hha-3338</a>,9.950545,53.549373,1653,,,7012310,Priesterhände,Mann
+Awraham ben Meir KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3215'>hha-3215</a>,9.950545,53.549373,1691,,,7012310,Priesterhände,Mann
+Elieser ben Awraham KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3265'>hha-3265</a>,9.950545,53.549373,1692,,,7012310,Priesterhände,Mann
+David Uri ben Schimon Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2416'>hha-2416</a>,9.950545,53.549373,1695,,,7012310,Priesterhände,Mann
+Elija ben Natan Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3164'>hha-3164</a>,9.950545,53.549373,1699,,,7012310,Priesterhände,Mann
+Jizchak ben Schmuel Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3320'>hha-3320</a>,9.950545,53.549373,1702,,,7012310,Priesterhände,Mann
+Natan ben Elijahu KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1300'>hha-1300</a>,9.950545,53.549373,1704,,,7012310,Priesterhände,Mann
+Jokew ben David Tewle Schiff KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1379'>hha-1379</a>,9.950545,53.549373,1707,,,7012310,Priesterhände,Mann
+Jehuda Jizchak Eisek ben Aharon Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1517'>hha-1517</a>,9.950545,53.549373,1707,,,7012310,Priesterhände,Mann
+Natan ben Schmuel Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1516'>hha-1516</a>,9.950545,53.549373,1708,,,7012310,Priesterhände,Mann
+Meir ben Salman Kohen Aschkenas,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2197'>hha-2197</a>,9.950545,53.549373,1712,,,7012310,Priesterhände,Mann
+Chajim ben Asriel KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1494'>hha-1494</a>,9.950545,53.549373,1712,,,7012310,Priesterhände,Mann
+Mosche Leser ben Asriel Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-9547'>hha-9547</a>,9.950545,53.549373,1714,,,7012310,Priesterhände,Mann
+Mordechai KaZ ben Elijahu KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1337'>hha-1337</a>,9.950545,53.549373,1715,,,7012310,Priesterhände,Mann
+Awraham ben Lipman KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2104'>hha-2104</a>,9.950545,53.549373,1716,,,7012310,Priesterhände,Mann
+Jehuda Arie Löb ben Simcha KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1225'>hha-1225</a>,9.950545,53.549373,1718,,,7012310,Priesterhände,Mann
+Chajim ben Elieser KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2138'>hha-2138</a>,9.950545,53.549373,1719,,,7012310,Priesterhände,Mann
+Jizchak ben Chajim Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2136'>hha-2136</a>,9.950545,53.549373,1720,,,7012310,Priesterhände,Mann
+Jissachar ben Gedalja KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2135'>hha-2135</a>,9.950545,53.549373,1722,,,7012310,Priesterhände,Mann
+Hanna bat Mosche Lehr ∞ Jaakow KaZ; Mosche Jaakow ben Eli(jah) KaZ ben David KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2108'>hha-2108</a>,9.950545,53.549373,1722,,,7012310,Priesterhände,Mann Frau
+Aharon Israel ben Hirsch KaZ Kowrien,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2933'>hha-2933</a>,9.950545,53.549373,1726,,,7012310,Priesterhände,Mann
+Jaakow Arje Jehuda Löb ben Schmerl KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2855'>hha-2855</a>,9.950545,53.549373,1727,,,7012310,Priesterhände,Mann
+Ichel ben Benet KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2901'>hha-2901</a>,9.950545,53.549373,1727,,,7012310,Priesterhände,Mann
+Schmerl ben Jizchak Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3025'>hha-3025</a>,9.950545,53.549373,1727,,,7012310,Priesterhände,Mann
+Issachar Ber ben Jehuda Seligman KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1238'>hha-1238</a>,9.950545,53.549373,1728,,,7012310,Priesterhände,Mann
+Mosche Marim? ben Awraham KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2979'>hha-2979</a>,9.950545,53.549373,1728,,,7012310,Priesterhände,Mann
+Binjamin Jehuda Seligman ben Juspa ben Ber KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1399'>hha-1399</a>,9.950545,53.549373,1729,,,7012310,Priesterhände,Mann
+Mosche ben Mosche Jaakow KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1962'>hha-1962</a>,9.950545,53.549373,1735,,,7012310,Priesterhände,Mann
+Issachar Berman Mosche ben Ascher KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1961'>hha-1961</a>,9.950545,53.549373,1735,,,7012310,Priesterhände,Mann
+Selig ben Izek KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2748'>hha-2748</a>,9.950545,53.549373,1737,,,7012310,Priesterhände,Mann
+Elijahu ben Mosche Jaakow KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3593'>hha-3593</a>,9.950545,53.549373,1737,,,7012310,Priesterhände,Mann
+Schimschon ben Seligman Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2722'>hha-2722</a>,9.950545,53.549373,1738,,,7012310,Priesterhände,Mann
+Juspa ben Ber Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1242'>hha-1242</a>,9.950545,53.549373,1739,,,7012310,Priesterhände,Mann
+Sender Mosche ben Mosche KaZ Hildesheim,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2833'>hha-2833</a>,9.950545,53.549373,1739,,,7012310,Priesterhände,Mann
+Josef Israel Schimon ben Elijahu KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2813'>hha-2813</a>,9.950545,53.549373,1739,,,7012310,Priesterhände,Mann
+David ben Koppel KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1756'>hha-1756</a>,9.950545,53.549373,1739,,,7012310,Priesterhände,Mann
+Mosche Friesländer ben Schlomo Schammes KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1808'>hha-1808</a>,9.950545,53.549373,1741,,,7012310,Priesterhände,Mann
+Jehuda Seligman ben Jissachar Ber Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1231'>hha-1231</a>,9.950545,53.549373,1741,,,7012310,Priesterhände,Mann
+Mordechai ben Berman KaZ Halle,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-685'>hha-685</a>,9.950545,53.549373,1741,,,7012310,Priesterhände,Mann
+Meir ben Seligman KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2774'>hha-2774</a>,9.950545,53.549373,1742,,,7012310,Priesterhände,Mann
+Mosche ben Leser Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3517'>hha-3517</a>,9.950545,53.549373,1742,,,7012310,Priesterhände,Mann
+Jehoschua Falk Jaakow ben Mosche ben K(oppel) KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3539'>hha-3539</a>,9.950545,53.549373,1742,,,7012310,Priesterhände,Mann
+Joel ben Jizchak Eisek KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3532'>hha-3532</a>,9.950545,53.549373,1743,,,7012310,Priesterhände,Mann
+Awraham Jaakow ben Jirmijahu Mosche Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2678'>hha-2678</a>,9.950545,53.549373,1743,,,7012310,Priesterhände,Mann
+Mosche ben Elieser KaZ Schapira,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2710'>hha-2710</a>,9.950545,53.549373,1743,,,7012310,Priesterhände,Mann
+Issachar Awraham ben Meschullam Sissel KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3503'>hha-3503</a>,9.950545,53.549373,1744,,,7012310,Priesterhände,Mann
+Jaakow Koppel ben Mosche KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-875'>hha-875</a>,9.950545,53.549373,1745,,,7012310,Priesterhände,Mann
+Awraham Naftali Hirz ben Baruch Bendit KaZ Schiff,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2612'>hha-2612</a>,9.950545,53.549373,1746,,,7012310,Priesterhände,Mann
+Schmuel ben Eisek KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1387'>hha-1387</a>,9.950545,53.549373,1746,,,7012310,Priesterhände,Mann
+Mosche ben Naftali Hirz KaZ Schiff,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2573'>hha-2573</a>,9.950545,53.549373,1747,,,7012310,Priesterhände,Mann
+Elieser Lipman ben Jaakow Kohen Hannover,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1726'>hha-1726</a>,9.950545,53.549373,1747,,,7012310,Priesterhände,Mann
+Schmuel Bonem Efraim ben Josef Deiern Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3460'>hha-3460</a>,9.950545,53.549373,1747,,,7012310,Priesterhände,Mann
+Izek ben Löb Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3833'>hha-3833</a>,9.950545,53.549373,1748,,,7012310,Priesterhände,Mann
+Mosche ben Izek KaZ Forell,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3831'>hha-3831</a>,9.950545,53.549373,1749,,,7012310,Priesterhände,Mann
+Meir ben Jehuda KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3837'>hha-3837</a>,9.950545,53.549373,1749,,,7012310,Priesterhände,Mann
+Aharon Mosche ben Chajim Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4071'>hha-4071</a>,9.950545,53.549373,1752,,,7012310,Priesterhände,Mann
+Juspa KaZ ben Feiwesch KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4065'>hha-4065</a>,9.950545,53.549373,1752,,,7012310,Priesterhände,Mann
+Hirsch ben Chajim Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3720'>hha-3720</a>,9.950545,53.549373,1754,,,7012310,Priesterhände,Mann
+Awraham ben Mosche Schiff Hameln KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-889'>hha-889</a>,9.950545,53.549373,1756,,,7012310,Priesterhände,Mann
+Hirz Mosche ben Bendit KaZ Schiff,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-317'>hha-317</a>,9.950545,53.549373,1757,,,7012310,Priesterhände,Mann
+Josef Juspa ben Mordechai,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2158'>hha-2158</a>,9.950545,53.549373,1758,,,7012310,Priesterhände,Mann
+Anschel ben Meir KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3656'>hha-3656</a>,9.950545,53.549373,1758,,,7012310,Priesterhände,Mann
+Feiwesch ben Seligman Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3134'>hha-3134</a>,9.950545,53.549373,1758,,,7012310,Priesterhände,Mann
+Meir Josef ben Israel Kowrien KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2257'>hha-2257</a>,9.950545,53.549373,1759,,,7012310,Priesterhände,Mann
+Eljakum Getschlik ben Jehuda Löb Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1724'>hha-1724</a>,9.950545,53.549373,1760,,,7012310,Priesterhände,Mann
+Gerschon ben Mendel Hannover KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-645'>hha-645</a>,9.950545,53.549373,1760,,,7012310,Priesterhände,Mann
+Wolf ben Mosche KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2244'>hha-2244</a>,9.950545,53.549373,1761,,,7012310,Priesterhände,Mann
+Meir Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-505'>hha-505</a>,9.950545,53.549373,1762,,,7012310,Priesterhände,Mann
+Chajim ben Levi Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4084'>hha-4084</a>,9.950545,53.549373,1768,,,7012310,Priesterhände,Mann
+Löb ben Bendit Schiff KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4509'>hha-4509</a>,9.950545,53.549373,1769,,,7012310,Priesterhände,Mann
+Salman ben Meir Schiff KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4450'>hha-4450</a>,9.950545,53.549373,1769,,,7012310,Priesterhände,Mann
+Jaakow ben David Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4024'>hha-4024</a>,9.950545,53.549373,1770,,,7012310,Priesterhände,Mann
+Juspa Aharon ben David Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4023'>hha-4023</a>,9.950545,53.549373,1770,,,7012310,Priesterhände,Mann
+Awraham ben Chajim Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4002'>hha-4002</a>,9.950545,53.549373,1770,,,7012310,Priesterhände,Mann
+Jirmijahu Mosche ben Meir Storm KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4505'>hha-4505</a>,9.950545,53.549373,1771,,,7012310,Priesterhände,Mann
+Israel Melamed KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4392'>hha-4392</a>,9.950545,53.549373,1774,,,7012310,Priesterhände,Mann
+Josef ben Gawriel KaZ aus Deiern,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2991'>hha-2991</a>,9.950545,53.549373,1777,,,7012310,Priesterhände,Mann
+Manes ben Meir Sturm,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3135'>hha-3135</a>,9.950545,53.549373,1781,,,7012310,Priesterhände,Mann
+Meir ben Wolf Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-411'>hha-411</a>,9.950545,53.549373,1781,,,7012310,Priesterhände,Mann
+Perez ben Meir KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-496'>hha-496</a>,9.950545,53.549373,1782,,,7012310,Priesterhände,Mann
+Jaakow ben Mosche KaZ F(ries)l(änder),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-795'>hha-795</a>,9.950545,53.549373,1782,,,7012310,Priesterhände,Mann
+Josef Juspa Jizchak ben Eli KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-817'>hha-817</a>,9.950545,53.549373,1784,,,7012310,Priesterhände,Mann
+Schmuel ben Menke KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-575'>hha-575</a>,9.950545,53.549373,1785,,,7012310,Priesterhände,Mann
+Kosman ben Schimschon KaZ Emden,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-589'>hha-589</a>,9.950545,53.549373,1785,,,7012310,Priesterhände,Mann
+Schlomo Salman ben Schimon KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-329'>hha-329</a>,9.950545,53.549373,1785,,,7012310,Priesterhände,Mann
+Mosche Josef ben Getschlik Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-770'>hha-770</a>,9.950545,53.549373,1785,,,7012310,Priesterhände,Mann
+Natan ben Ber KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-792'>hha-792</a>,9.950545,53.549373,1786,,,7012310,Priesterhände,Mann
+Salman ben Josef Deiern KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3970'>hha-3970</a>,9.950545,53.549373,1787,,,7012310,Priesterhände,Mann
+Mosche ben Jaakow Koppel KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-189'>hha-189</a>,9.950545,53.549373,1787,,,7012310,Priesterhände,Mann
+Bendit ben Berman KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-9131'>hha-9131</a>,9.950545,53.549373,1788,,,7012310,Priesterhände,Mann
+Löb ben Meir KaZ F(rie)s(länder),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-244'>hha-244</a>,9.950545,53.549373,1792,,,7012310,Priesterhände,Mann
+Baruch Aharon ben Hirz Schiff Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3078'>hha-3078</a>,9.950545,53.549373,1794,,,7012310,Priesterhände,Mann
+Meir Aharon Hakohen ben Wolf Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-123'>hha-123</a>,9.950545,53.549373,1796,,,7012310,Priesterhände,Mann
+Jehuda Jaakow Löb ben Getschlik KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4844'>hha-4844</a>,9.950545,53.549373,1799,,,7012310,Priesterhände,Mann
+Lipman ben Michel Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4697'>hha-4697</a>,9.950545,53.549373,1799,,,7012310,Priesterhände,Mann
+Jokew ben Mosche Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1601'>hha-1601</a>,9.950545,53.549373,1800,,,7012310,Priesterhände,Mann
+Mosche ben Löb ben Getschlik KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4789'>hha-4789</a>,9.950545,53.549373,1800,,,7012310,Priesterhände,Mann
+Josef ben Elijahu KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4797'>hha-4797</a>,9.950545,53.549373,1801,,,7012310,Priesterhände,Mann
+Mosche Efraim ben Seligman ben Wolf Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4798'>hha-4798</a>,9.950545,53.549373,1801,,,7012310,Priesterhände,Mann
+Jokew Mosche ben Awraham Kohen Schiff,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4725'>hha-4725</a>,9.950545,53.549373,1803,,,7012310,Priesterhände,Mann
+Chajim ben Josef Deiern,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4727'>hha-4727</a>,9.950545,53.549373,1803,,,7012310,Priesterhände,Mann
+Refael Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1250'>hha-1250</a>,9.950545,53.549373,1803,,,7012310,Priesterhände,Mann
+Jokkel ben Mosche Sturm,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4731'>hha-4731</a>,9.950545,53.549373,1803,,,7012310,Priesterhände,Mann
+Pinchas Seligman ben Binjamin Wolf Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-5099'>hha-5099</a>,9.950545,53.549373,1805,,,7012310,Priesterhände,Mann
+Ber ben Izek Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-5052'>hha-5052</a>,9.950545,53.549373,1807,,,7012310,Priesterhände,Mann
+Michel ben Leser KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4679'>hha-4679</a>,9.950545,53.549373,1808,,,7012310,Priesterhände,Mann
+Natan ben Meir Hakohen (Nathan Meyer [Strelitz]),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4521'>hha-4521</a>,9.950545,53.549373,1814,,,7012310,Priesterhände,Mann
+Jizchak Izek ben Awraham Bukim,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-5310'>hha-5310</a>,9.950545,53.549373,1817,,,7012310,Priesterhände,Mann
+Salman ben Meir ben Wolf Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-3854'>hha-3854</a>,9.950545,53.549373,1819,,,7012310,Priesterhände,Mann
+Chajim ben Schlomo Salman Hakohen Windmühl,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4959'>hha-4959</a>,9.950545,53.549373,1821,,,7012310,Priesterhände,Mann
+Jehuda (Lion Isaac Schiff),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4558'>hha-4558</a>,9.950545,53.549373,1821,,,7012310,Priesterhände,Mann
+Michel ben Schlomo Salman Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4536'>hha-4536</a>,9.950545,53.549373,1825,,,7012310,Priesterhände,Mann
+Jizchak Eisek ben Mosche ben Michel (Isaac Cohn),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4564'>hha-4564</a>,9.950545,53.549373,1826,,,7012310,Priesterhände,Mann
+Awraham Menachem Menke ben Josef KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-5394'>hha-5394</a>,9.950545,53.549373,1827,,,7012310,Priesterhände,Mann
+Hirsch Josef ben Seligman KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4925'>hha-4925</a>,9.950545,53.549373,1828,,,7012310,Priesterhände,Mann
+Izek ben Elias Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4914'>hha-4914</a>,9.950545,53.549373,1830,,,7012310,Priesterhände,Mann
+Mosche ben Michel KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-5004'>hha-5004</a>,9.950545,53.549373,1832,,,7012310,Priesterhände,Mann
+Wolf ben Seligman Kohen (Wolff Seligmann),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-5640'>hha-5640</a>,9.950545,53.549373,1835,,,7012310,Priesterhände,Mann
+Natan ben Menke Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-5403'>hha-5403</a>,9.950545,53.549373,1836,,,7012310,Priesterhände,Mann
+Schimon ... Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1274'>hha-1274</a>,9.950545,53.549373,1839,,,7012310,Priesterhände,Mann
+Meir Zadok ben Binjamin Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1419'>hha-1419</a>,9.950545,53.549373,1840,,,7012310,Priesterhände,Mann
+Gawriel ben Binjamin Ka,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4157'>hha-4157</a>,9.950545,53.549373,1845,,,7012310,Priesterhände,Mann
+Jokew Josef Arie ben Meir Schiff Hakohen (Jacob Meyer Schiff),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-5721'>hha-5721</a>,9.950545,53.549373,1846,,,7012310,Priesterhände,Mann
+Josef Gutmann (Joseph Guttmann),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-4625'>hha-4625</a>,9.950545,53.549373,1848,,,7012310,Priesterhände,Mann
+Schmuel ... Hakohen (Samuel Meyer Cohen),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-820'>hha-820</a>,9.950545,53.549373,1849,,,7012310,Priesterhände,Mann
+Gerschon ben Reuwen Hakohen (Gerson Ruben Cohn),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1906'>hha-1906</a>,9.950545,53.549373,1849,,,7012310,Priesterhände,Mann
+Menke ben Natan Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1055'>hha-1055</a>,9.950545,53.549373,1853,,,7012310,Priesterhände,Mann
+Elijahu ben Awraham KaZ (Elias Abr. Mar[(cus)]),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-1985'>hha-1985</a>,9.950545,53.549373,1865,,,7012310,Priesterhände,Mann
+Salman (Salomon Heimann Windmühl),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-9399'>hha-9399</a>,9.950545,53.549373,1866,,,7012310,Priesterhände,Mann
+[---] ben Hirz Hakohen (Eliod Israel),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hha-2201'>hha-2201</a>,9.950545,53.549373,1867,,,7012310,Priesterhände,Mann
+Natan ben Izek Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-89'>hht-89</a>,9.952680,53.549540,1814,,,7012310,Priesterhände,Mann
+Jokew ben Chajim KaZ (Jacob Heymann Cohen),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-84'>hht-84</a>,9.952680,53.549540,1815,,,7012310,Priesterhände,Mann
+Mosche Hirsch ben Löb ben Getschlik KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-106'>hht-106</a>,9.952680,53.549540,1815,,,7012310,Priesterhände,Mann
+Josef ben Manes Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-245'>hht-245</a>,9.952680,53.549540,1821,,,7012310,Priesterhände,Mann
+Chajim ben Awraham Jizchak Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-231'>hht-231</a>,9.952680,53.549540,1822,,,7012310,Priesterhände,Mann
+Ber ben Mori Hakohen (Behr Schlesinger),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-309'>hht-309</a>,9.952680,53.549540,1824,,,7012310,Priesterhände,Mann
+Meir ben Juda Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-366'>hht-366</a>,9.952680,53.549540,1824,,,7012310,Priesterhände,Mann
+Awraham ben Sender Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-384'>hht-384</a>,9.952680,53.549540,1826,,,7012310,Priesterhände,Mann
+Noach Gawriel ben Josef Hakohen (Gabriel Joseph Cohen),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-391'>hht-391</a>,9.952680,53.549540,1826,,,7012310,Priesterhände,Mann
+Izek ben Mosche Kober KaZ (Isaac Moses Cohen),Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-296'>hht-296</a>,9.952680,53.549540,1827,,,7012310,Priesterhände,Mann
+Juda ben [Mosche] KaZ,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-445'>hht-445</a>,9.952680,53.549540,1828,,,7012310,Priesterhände,Mann
+Sanvel ben Awraham Hakohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-460'>hht-460</a>,9.952680,53.549540,1829,,,7012310,Priesterhände,Mann
+Josef Juspa ben Elijahu Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-552'>hht-552</a>,9.952680,53.549540,1830,,,7012310,Priesterhände,Mann
+Natan ben Binjamin Kohen,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-553'>hht-553</a>,9.952680,53.549540,1830,,,7012310,Priesterhände,Mann
+Mendel ben Mosche Mack,Hamburg-Altona,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hht-667'>hht-667</a>,9.952680,53.549540,1834,,,7012310,Priesterhände,Mann
+Jizchak Joseph ben Issachar Hakohen (Isaak Kahn),Heiligenhaus,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hlh-24'>hlh-24</a>,6.924709,51.346014,1910,,,1039517,Priesterhände,Mann
+Baruch ben Josef Hakohen (Bernhard Cahn),Heiligenhaus,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hlh-42'>hlh-42</a>,6.924709,51.346014,1920,,,1039517,Priesterhände,Mann
+Natan ben Jekutiel Hakohen (Nathan Katz),Hellenthal-Blumenthal,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=blu-38'>blu-38</a>,6.456034,50.489872,1904,,,7213692,Priesterhände,Mann
+Jizchak ben Jaakow Hakohen (Isaak Lazarus),Hennef,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hen-7'>hen-7</a>,7.267189,50.768785,1891,,,1039545,Priesterhände,Mann
+Mordechai ben Mattitjahu KaZ (Marcus Matthias),Hildesheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hld-1004'>hld-1004</a>,9.959132,52.151509,1684,,,7005248,Priesterhände,Mann
+Naftali Hirz ben Mosche Kohen,Hildesheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hld-1'>hld-1</a>,9.959132,52.151509,1775,,,7005248,Priesterhände,Mann
+Jaakow ben Elieser KaZ (Jacob Graber),Homburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hos-35'>hos-35</a>,7.348276,49.323688,1902,,,7012377,Priesterhände,Mann
+Elieser ben Jaakow KaZ (Adolf Graber),Homburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hos-86'>hos-86</a>,7.348276,49.323688,1928,,,7012377,Priesterhände,Mann
+Elieser ben Schimon Hakohen (Ludwig Greilsheimer),Homburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hos-99'>hos-99</a>,7.348276,49.323688,1935,,,7012377,Priesterhände,Mann
+Jizchak ben David? Hakohen (Itzig Cohn),Immenrode,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=imr-18'>imr-18</a>,10.755004,51.356179,1883,,,1041549,Priesterhände,Mann
+Schlomo Zwi ben Schmuel Hakohen,Kempen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e20-88'>e20-88</a>,6.410962,51.350149,1845,,,7005171,Priesterhände,Mann
+Awraham ben Schlomo Zwi Hakohen (Abraham Kounen),Kempen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e20-46'>e20-46</a>,6.410962,51.350149,1871,,,7005171,Priesterhände,Mann
+Isaac Heymann,Krefeld (alter Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=kre-64'>kre-64</a>,6.55169,51.316734,1862,,,7005980,Priesterhände,
+Adelheid Bruckmann geb. Salm,Krefeld (alter Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=kre-99'>kre-99</a>,6.55169,51.316734,1870,,,7005980,Priesterhände,
+Adolph Kamp,Krefeld (alter Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=kre-116'>kre-116</a>,6.55169,51.316734,1871,,,7005980,Priesterhände,
+Maximilian Heymann,Krefeld (alter Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=kre-129'>kre-129</a>,6.55169,51.316734,1873,,,7005980,Priesterhände,
+Löb Dahl,Krefeld (alter Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=kre-155'>kre-155</a>,6.55169,51.316734,1877,,,7005980,Priesterhände,
+Samuel Frank,Krefeld (alter Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=kre-216'>kre-216</a>,6.55169,51.316734,1884,,,7005980,Priesterhände,
+Samuel Frank,Krefeld (alter Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=kre-251'>kre-251</a>,6.55169,51.316734,1887,,,7005980,Priesterhände,
+Jacob Frank,Krefeld (alter Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=kre-310'>kre-310</a>,6.55169,51.316734,1892,,,7005980,Priesterhände,
+Moritz Cohn,Krefeld (alter Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=kre-397'>kre-397</a>,6.55169,51.316734,1899,,,7005980,Priesterhände,
+Joseph L. Cahn,Krefeld (alter Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=kre-399'>kre-399</a>,6.55169,51.316734,1899,,,7005980,Priesterhände,
+Abraham Heymann,Krefeld (alter Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=kre-452'>kre-452</a>,6.55169,51.316734,1902,,,7005980,Priesterhände,
+Zwi ben Jehuda Hakohen (Herz Cohen),Krefeld (neuer Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e23-263'>e23-263</a>,6.554954,51.317175,1911,,,7005980,Priesterhände,Mann
+Pinchas ben Asriel Hakohen (Benjamin Cohen); Julie Cohen geb. Meyer,Krefeld (neuer Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e23-368'>e23-368</a>,6.554954,51.317175,1912,,,7005980,Priesterhände,Mann Frau
+Leopold Bruckmann,Krefeld (neuer Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e23-228'>e23-228</a>,6.554954,51.317175,1915,,,7005980,Priesterhände,Mann
+Schimon ben Ari David Hakohen (Simon Gostynski),Krefeld (neuer Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e23-219'>e23-219</a>,6.554954,51.317175,1916,,,7005980,Priesterhände,Mann
+Perez ben Jizchak Hakohen (Bernhard Hertz),Krefeld (neuer Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e23-10'>e23-10</a>,6.554954,51.317175,1916,,,7005980,Priesterhände,Mann
+Isaak Kahn; Jenny Kahn  geb. Bloch,Krefeld (neuer Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e23-110'>e23-110</a>,6.554954,51.317175,1916,,,7005980,Priesterhände,Mann Frau
+Naftali ben Jehoschua Hakohen (Hermann Bruckmann),Krefeld (neuer Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e23-207'>e23-207</a>,6.554954,51.317175,1918,,,7005980,Priesterhände,Mann
+Aharon ben Jehoschua Hakohen (Aron Bruckmann),Krefeld (neuer Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e23-71'>e23-71</a>,6.554954,51.317175,1924,,,7005980,Priesterhände,Mann
+Arnold Marx,Krefeld (neuer Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e23-560'>e23-560</a>,6.554954,51.317175,1930,,,7005980,Priesterhände,Mann
+Mosche ben Jehuda Hakohen (Moritz Jaschkowitz),Krefeld (neuer Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e23-677'>e23-677</a>,6.554954,51.317175,1978,,,7005980,Priesterhände,Mann
+Mosche ben Bezalel Hakohen (Moshe Berkovicz Michail Kaplan),Krefeld (neuer Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e23-743'>e23-743</a>,6.554954,51.317175,1989,,,7005980,Priesterhände,Mann
+Jaakow ben Awraham Hakohen; Bluma bat Mosche,Krefeld (neuer Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e23-744'>e23-744</a>,6.554954,51.317175,1996,,,7005980,Priesterhände,Mann Frau
+Motek Lipkowicz,Krefeld (neuer Friedhof),<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e23-842'>e23-842</a>,6.554954,51.317175,2000,,,7005980,Priesterhände,
+Heinrich Katz,Kusterdingen-Wankheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=wnk-98'>wnk-98</a>,9.100833,48.508472,1903,,,7087635,Priesterhände,Mann
+Schmuel ben Naftali KaZ,Laupheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=lau-860'>lau-860</a>,9.884036,48.231932,1764,,,1040058,Priesterhände,Mann
+Gawriel Arje ben Sch.(?) Hakohen,Laupheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=lau-838'>lau-838</a>,9.884036,48.231932,1811,,,1040058,Priesterhände,Mann
+Hirsch Gabriel Kahn,Laupheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=lau-825'>lau-825</a>,9.884036,48.231932,1822,,,1040058,Priesterhände,
+Jizchak Michael ben Gabriel Arje Hakohen (Michael Kohn),Laupheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=lau-504'>lau-504</a>,9.884036,48.231932,1856,,,1040058,Priesterhände,Mann
+Schmuel ben Naftali Kohen (Samuel Kahn),Laupheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=lau-553'>lau-553</a>,9.884036,48.231932,1872,,,1040058,Priesterhände,Mann
+Jehuda ben Jona Hakohen (John Hasenberg); Gertrude Hasenberg geb. Mayer,Laupheim,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=lau-801'>lau-801</a>,9.884036,48.231932,1945,,,1040058,Priesterhände,Mann Frau
+Louis Kahn,Mönchengladbach,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e26-16'>e26-16</a>,6.428684,51.188645,1889,,,7004975,Priesterhände,Mann
+Schlomo ben Jeschajahu KaZ (Salomon Katz),Mönchengladbach-Rheydt,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e27-101'>e27-101</a>,6.436269,51.168269,1931,,,7004976,Priesterhände,Mann
+Jehonatan (genannt Block) ben Jaakow Schimschon KaZ,Mülheim an der Ruhr,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=mlh-5808'>mlh-5808</a>,6.902738,51.429799,1860,,,7004909,Priesterhände,Mann
+Mosche ben Aharon Elieser Hakohen (Moses Cahn),Mülheim an der Ruhr,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=mlh-5812'>mlh-5812</a>,6.902738,51.429799,1861,,,7004909,Priesterhände,Mann
+Elieser ben Juspa Hakohen (Lazarus Cohn),Mülheim an der Ruhr,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=mlh-5104'>mlh-5104</a>,6.902738,51.429799,1874,,,7004909,Priesterhände,Mann
+Schmuel ben Chajim Juspa Hakohen (Samuel Pfahl),Mülheim an der Ruhr,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=mlh-5850'>mlh-5850</a>,6.902738,51.429799,1877,,,7004909,Priesterhände,Mann
+Schlomo ben Meir Hakohen (Siegmund Hirsch),Mülheim an der Ruhr,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=mlh-5101'>mlh-5101</a>,6.902738,51.429799,1879,,,7004909,Priesterhände,Mann
+Jizchak ben Elieser (Hakohen?),Mülheim an der Ruhr,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=mlh-5276'>mlh-5276</a>,6.902738,51.429799,1914,,,7004909,Priesterhände,Mann
+Amalie[ Levy geb. Cohen] (Amalie Levy); Jizchak Halevi (Isidor[ Levy]); Gerschon Jaakow Halevi (Gerson Levy); Mirjam Halevi[ geb. Treidel] (Emma Levy); Helene Frank; Else[ Katz]; Moritz Katz,Mülheim an der Ruhr,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=mlh-5229'>mlh-5229</a>,6.902738,51.429799,1924,,,7004909,Priesterhände,Mann Frau
+Baruch ben Schimon Hakohen (Bendix Cohn); Deile bat F[...]le (Dorothea Cohn geb. Wertheim),Mülheim an der Ruhr,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=mlh-5704'>mlh-5704</a>,6.902738,51.429799,1926,,,7004909,Priesterhände,Mann Frau
+Richard Katz; Fanny Katz geb. Schwerin,Mülheim an der Ruhr,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=mlh-5540'>mlh-5540</a>,6.902738,51.429799,1935,,,7004909,Priesterhände,Mann Frau
+Bernhard Cohn,Neuss,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e33-4'>e33-4</a>,6.66818,51.194797,1910,,,7004978,Priesterhände,Mann
+Max Cohnen,Neuss,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e33-68'>e33-68</a>,6.66818,51.194797,1941,,,7004978,Priesterhände,Mann
+Josef ben Jehonatan Kohen,Oranienburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ora-308'>ora-308</a>,13.228051,52.750548,1832,,,1037432,Priesterhände,Mann
+Schmuel ben Boas KaZ,Oranienburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ora-201'>ora-201</a>,13.228051,52.750548,1858,,,1037432,Priesterhände,Mann
+Jizchak ben Schlomo Hakohen (Isaak Cohn),Oranienburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=ora-103'>ora-103</a>,13.228051,52.750548,1873,,,1037432,Priesterhände,Mann
+Awraham ben David Hakohen (Abraham Kahn),Ottweiler,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sb0-23'>sb0-23</a>,7.148328,49.405163,1892,,,1040679,Priesterhände,Mann
+Jehuda Löb ben Juspa KaZ (Levi Joseph),Preußisch Oldendorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=pro-16'>pro-16</a>,8.479326,52.297095,1806,,,1040775,Priesterhände,Mann
+Jehuda (genannt Löb KaZ) (Jacob Levi Cahen),Preußisch Oldendorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=pro-20'>pro-20</a>,8.479326,52.297095,1824,,,1040775,Priesterhände,Mann
+Philipp Cahen,Preußisch Oldendorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=pro-11'>pro-11</a>,8.479326,52.297095,1848,,,1040775,Priesterhände,Mann
+Issachar ben Jaakow Hakohen (Bernhard Cahen),Preußisch Oldendorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=pro-6'>pro-6</a>,8.479326,52.297095,1880,,,1040775,Priesterhände,Mann
+Jaakow (genannt Jakob Cahen) ben Issachar Hakohen (Jacob Cahen),Preußisch Oldendorf,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=pro-42'>pro-42</a>,8.479326,52.297095,1884,,,1040775,Priesterhände,Mann
+Mordechai ben David Hakohen,Rheineck-Bad Breisig,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bbr-15'>bbr-15</a>,7.311972,50.497278,1719,,,1038315,Priesterhände,Mann
+Josef ben Eisek KaZ,Rheineck-Bad Breisig,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bbr-16'>bbr-16</a>,7.311972,50.497278,1720,,,1038315,Priesterhände,Mann
+Jizchak ben Jechiel Jir'[mejahu] Hakohen,Rheineck-Bad Breisig,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=bbr-20'>bbr-20</a>,7.311972,50.497278,1727,,,1038315,Priesterhände,Mann
+Arje ben Mosche Hakohen (Erich Marx),Roermond,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e54-16'>e54-16</a>,6.00037,51.182238,1978,,,7006856,Priesterhände,Mann
+Zwi ben Binjamin Hakohen (Erich Gerson),Saarbrücken,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sbs-4'>sbs-4</a>,6.974967,49.230945,1910,,,7004454,Priesterhände,Mann
+Jizchak ben David Hakohen (Isaak Selinger),Saarbrücken,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sb2-78'>sb2-78</a>,6.960955,49.204385,1927,,,7004454,Priesterhände,Mann
+Jaakow ben Issachar Hakohen (Jakob Kahn),Saarlouis,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sb9-57'>sb9-57</a>,6.756415,49.31859,1927,,,7012686,Priesterhände,Mann
+Henri Cahn; Leonie Cahn née Fribourg; Leo Cahn; Julie Cahn née Fribourg,Saarlouis,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sb9-80'>sb9-80</a>,6.756415,49.31859,1928,,,7012686,Priesterhände,Mann Frau
+Arje ben Mosche Hakohen (Louis Marcus Cohn),Schmalkalden,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=smk-206'>smk-206</a>,10.439409,50.724221,1877,,,7012867,Priesterhände,Mann
+Jomtow ben Elieser Hakohen Vetsburg (Jakob Vetsburg),Schnaittach,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=st3-3101'>st3-3101</a>,11.336623,49.561735,1928,,,1041127,Priesterhände,Mann
+Mosche? S. Mordechai Hakohen,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-232'>sgb-232</a>,7.203499,50.801352,1696,,,7005104,Priesterhände,
+Jehuda S. David aus Siegburg / Löb David,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-241'>sgb-241</a>,7.203499,50.801352,1740,,,7005104,Priesterhände,
+Pinchas S. David KaZ / Binnes David Bock,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-234'>sgb-234</a>,7.203499,50.801352,1743,,,7005104,Priesterhände,
+Mosche S. David KaZ / Moses Bock,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-243'>sgb-243</a>,7.203499,50.801352,1769,,,7005104,Priesterhände,
+Mosche S. Jehuda KaZ Bock / Moses Löb Bock,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-246'>sgb-246</a>,7.203499,50.801352,1783,,,7005104,Priesterhände,
+Jizchak S. Schmuel Hakohen / Isaac Samuel,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-228'>sgb-228</a>,7.203499,50.801352,1814,,,7005104,Priesterhände,
+Mosche Awraham S. Schmuel Hakohen / Abaraham Samuel,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-213'>sgb-213</a>,7.203499,50.801352,1834,,,7005104,Priesterhände,
+Elijahu S. Schmuel Hakohen / Elias Samuel,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-251'>sgb-251</a>,7.203499,50.801352,1835,,,7005104,Priesterhände,
+Jaakow S. Jizchak Hakohen / Jakob Hoffmann aus Lohmar,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-253'>sgb-253</a>,7.203499,50.801352,1845,,,7005104,Priesterhände,
+Jehuda S. Elijahu Hakohen / Levi Hoffmann,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-267'>sgb-267</a>,7.203499,50.801352,1869,,,7005104,Priesterhände,
+Meir S. Elija Hakohen / Meyer Cahn,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-525'>sgb-525</a>,7.203499,50.801352,1879,,,7005104,Priesterhände,
+Efraim S. Eljakum Hakohen aus Uckerath / Gustav Cahn,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-418'>sgb-418</a>,7.203499,50.801352,1880,,,7005104,Priesterhände,
+Naftali S. Binjamin Hakohen / Herz Cahn aus Uckerath,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-261'>sgb-261</a>,7.203499,50.801352,1880,,,7005104,Priesterhände,
+Baruch S. Jaakow Hakohen / Baruch Cohn,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-405'>sgb-405</a>,7.203499,50.801352,1880,,,7005104,Priesterhände,
+Jaakow ben Mosche Hakohen (Jacob Lazarus),Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-317'>sgb-317</a>,7.203499,50.801352,1882,,,7005104,Priesterhände,Mann
+Jehoschua S. Jizchak Hakohen / Josua Löwenstein,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-352'>sgb-352</a>,7.203499,50.801352,1882,,,7005104,Priesterhände,
+Jizchak S. Awraham Walter / Isac Walter,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-351'>sgb-351</a>,7.203499,50.801352,1883,,,7005104,Priesterhände,
+Schmuel Hakohen / Samuel Wallerstein,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-450'>sgb-450</a>,7.203499,50.801352,1884,,,7005104,Priesterhände,
+Jizchak S. Eljakum Hakohen / Isaak Kahn,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-314'>sgb-314</a>,7.203499,50.801352,1889,,,7005104,Priesterhände,
+David ben Elijahu Hakohen (David Dannenberg),Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-385'>sgb-385</a>,7.203499,50.801352,1890,,,7005104,Priesterhände,Mann
+Jehuda ben Jaakow Hakohen (Levi Hoffmann),Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-488'>sgb-488</a>,7.203499,50.801352,1891,,,7005104,Priesterhände,Mann
+Zwi S. Awraham Hakohen / Hirsch Walter,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-415'>sgb-415</a>,7.203499,50.801352,1892,,,7005104,Priesterhände,
+Reuwen S. Jaakow Hakohen / Reuben Hoffmann,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-468'>sgb-468</a>,7.203499,50.801352,1893,,,7005104,Priesterhände,
+Eljakum ben Awraham Hakohen (Seligmann Cahn),Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-518'>sgb-518</a>,7.203499,50.801352,1903,,,7005104,Priesterhände,Mann
+Issachar ben Jehoschua Hakohen ([Leonard Löwenstein]),Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-603'>sgb-603</a>,7.203499,50.801352,1906,,,7005104,Priesterhände,Mann
+Schmuel ben Jehoschua K(ohen) (Samuel Löwenstein),Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-482'>sgb-482</a>,7.203499,50.801352,1909,,,7005104,Priesterhände,Mann
+Naftali S. Meir Hakohen / Hugo Cohen,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-437'>sgb-437</a>,7.203499,50.801352,1914,,,7005104,Priesterhände,
+Jizchak S. Schmuel Kohen / Isaak Wallerstein,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-435'>sgb-435</a>,7.203499,50.801352,1914,,,7005104,Priesterhände,
+Awraham S. Zwi Hakohen / Abraham Walter,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-344'>sgb-344</a>,7.203499,50.801352,1930,,,7005104,Priesterhände,
+Jaakow S. Reuwen Hakohen / Jakob Hoffmann,Siegburg,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sgb-110'>sgb-110</a>,7.203499,50.801352,1934,,,7005104,Priesterhände,
+ Mosche Issachar Berman ben Naftali Hirz Kohen Zedek,Sittard,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e58-26'>e58-26</a>,5.879167,50.995278,1772,,,1048111,Priesterhände,Mann
+Jaakow Mosche ben Naftali Kohen Zedek,Sittard,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e58-27'>e58-27</a>,5.879167,50.995278,1786,,,1048111,Priesterhände,Mann
+Josef Jehuda ben Awraham Kohen,Sondershausen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sdh-56'>sdh-56</a>,10.869193,51.360182,1754,,,1037748,Priesterhände,Mann
+Gerschon ben Izek KaZ,Sondershausen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sdh-35'>sdh-35</a>,10.869193,51.360182,1799,,,1037748,Priesterhände,Mann
+Abraham Pollack,Sondershausen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sdh-13'>sdh-13</a>,10.869193,51.360182,1842,,,1037748,Priesterhände,
+ Asriel Dow ben Gerschon KaZ (Baer Gers),Sondershausen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sdh-10'>sdh-10</a>,10.869193,51.360182,1858,,,1037748,Priesterhände,Mann
+David Bör,Sondershausen,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sdh-104'>sdh-104</a>,10.869193,51.360182,1859,,,1037748,Priesterhände,
+Seew ben Aharon Hakohen (Wolfgang Kahn),St. Ingbert,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sb7-24'>sb7-24</a>,7.115439,49.285286,1888,,,7012691,Priesterhände,Mann
+Netanel ben Seew Hakohen (Samuel Kahn),St. Ingbert,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sb7-22'>sb7-22</a>,7.115439,49.285286,1900,,,7012691,Priesterhände,Mann
+Meir Hakohen Czarnikau (Rabbÿ Jakob Meyer),St. Wendel,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sb8-39'>sb8-39</a>,7.170312,49.480286,1902,,,1041036,Priesterhände,Mann
+David ben Awraham Hakohen (David Kahn),Tholey,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sb4-61'>sb4-61</a>,7.044039,49.49018,1887,,,1041416,Priesterhände,Mann
+Joel ben Awraham Hakohen (Albert Kahn),Tholey,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sb4-16'>sb4-16</a>,7.044039,49.49018,1918,,,1041416,Priesterhände,Mann
+Awraham ben David Hakohen (Leopold Kahn Senior),Tholey,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sb4-11'>sb4-11</a>,7.044039,49.49018,1919,,,1041416,Priesterhände,Mann
+Chajim ben Awraham Hakohen (August Kahn),Tholey,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=sb4-6'>sb4-6</a>,7.044039,49.49018,1927,,,1041416,Priesterhände,Mann
+Ernst Cahn,Venlo,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=e61-1041'>e61-1041</a>,6.171448,51.355532,1989,,,7006853,Priesterhände,Mann
+Elieser Lipmann ben Meir,Worms,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=wrm-1247'>wrm-1247</a>,8.356283,49.629442,1669,,,7005108,Priesterhände,
+Pinchas ben Schmuel,Worms,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=wrm-1076'>wrm-1076</a>,8.356283,49.629442,1683,,,7005108,Priesterhände,
+Bendit KaZ,Würzburg - Heidingsfeld,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hdf-2023'>hdf-2023</a>,9.943251,49.763329,1811,,,7004335,Priesterhände,Mann
+Schmuel Hakohen (genannt Sanwel aus der Familie Fränkel),Würzburg - Heidingsfeld,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hdf-320'>hdf-320</a>,9.943251,49.763329,1829,,,7004335,Priesterhände,Mann
+Ascher (genannt Ensel Menke KaZ) ben Jehuda,Würzburg - Heidingsfeld,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hdf-410'>hdf-410</a>,9.943251,49.763329,1834,,,7004335,Priesterhände,Mann
+Aharon ben Mosche Hakohen,Würzburg - Heidingsfeld,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hdf-2101'>hdf-2101</a>,9.943251,49.763329,1849,,,7004335,Priesterhände,Mann
+Jaakow [Jehuda] (genannt Koppel Löb) ben Meir  Hakohen,Würzburg - Heidingsfeld,<a href='http://steinheim-institut.de/cgi-bin/epidat?id=hdf-834'>hdf-834</a>,9.943251,49.763329,1858,,,7004335,Priesterhände,Mann

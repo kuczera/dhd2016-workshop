@@ -1,0 +1,538 @@
+<svg width="1600" height="1600" xmlns="http://www.w3.org/2000/svg" version="1.1">
+	<g transform="translate(10,10)">
+		<g>
+			<circle class="node node--root" transform="translate(790,790)" r="790"
+				style="fill-opacity: 0; stroke: rgb(221, 221, 221); stroke-opacity: 1;"/>
+			<circle class="node" transform="translate(617.7833679398155,517.2436335405678)"
+				r="284.34291485801214"
+				style="fill-opacity: 0; stroke: rgb(221, 221, 221); stroke-opacity: 1;"/>
+			<circle class="node node--leaf"
+				transform="translate(668.2451723177793,475.0628065767273)" r="170.11456097986297"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(760.0463217639691,645.5733860043908)" r="18.656450337028424"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(482.97381742666335,429.61718464202664)" r="15.767578380470841"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(413.6683734676461,406.86592643427923)" r="52.295141340541434"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(415.07119634996536,481.3019019441703)" r="17.272516712429304"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(433.6602154272192,533.3079102147408)" r="33.07435143930841"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(488.90635393639775,562.2819008118215)" r="24.42702739103347"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(515.6195122806873,625.4339847208043)" r="39.260953548055944"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(577.2949990439372,650.1436784487228)" r="22.298723191442665"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(633.8568615579427,688.4222075233965)" r="41.116813960874715"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(688.3582688807871,663.089168811204)" r="14.102950839715536"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(722.718254427157,657.8836555566141)" r="15.767578380470841"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(465.0431745516355,475.0628065767273)" r="28.205901679431072"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(777.6579708755585,620.5624897488728)" r="7.051475419857768"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(811.8956517627516,611.885434548518)" r="23.387098186082024"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(818.8964480934571,577.2660912529086)" r="7.051475419857768"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(828.7208620410712,561.0213506504472)" r="7.051475419857768"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(843.1956796408468,541.6943155061813)" r="12.213513695516735"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(853.642162948003,512.2972719782913)" r="14.102950839715536"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(849.9314078625058,486.5271035471512)" r="7.051475419857768"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(858.4259253720556,460.16110654183313)" r="15.767578380470841"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(847.9805206550564,431.3763188069404)" r="9.972292173503371"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(838.8264296089145,411.4754418537302)" r="7.051475419857768"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(832.7201558038543,390.4384338296432)" r="9.972292173503371"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(819.1537142588297,373.2397725389119)" r="7.051475419857768"
+				style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node" transform="translate(1145.527442315983,952.3449542984146)"
+				r="394.7543270190299"
+				style="fill-opacity: 0; stroke: rgb(221, 221, 221); stroke-opacity: 1;"/>
+			<circle class="node node--leaf"
+				transform="translate(1322.0749249505716,932.5400992367432)" r="125.74581973091962"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1100.7937901268006,738.5407188482709)" r="133.0469721281982"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1165.285726491072,894.389144367298)" r="30.736668758021057"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1024.3307830633842,1092.045944087615)" r="207.15021778914138"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1284.7226731663607,1108.0917602535858)" r="48.85405478206694"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1352.8131385184731,1079.9411545128773)" r="19.944584347006742"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1393.1879660869295,1063.7978223154469)" r="18.656450337028424"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1458.6976175913892,1043.1404438634763)" r="45.151473170553245"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1456.4682201892567,980.9338583202356)" r="12.213513695516735"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1475.5649516436379,945.2390537605577)" r="23.387098186082024"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1477.8346479090383,884.6990320648266)" r="32.31391987261873"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1440.3728675488765,852.483178859104)" r="12.213513695516735"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1422.6217760122508,817.3154660935777)" r="22.298723191442665"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1385.3741308094907,804.4904047389675)" r="12.213513695516735"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1353.6799013131822,785.3224564795562)" r="19.944584347006742"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1305.8337569489524,779.3843739040633)" r="23.387098186082024"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1270.5896094278482,799.3005555236655)" r="12.213513695516735"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1238.1805428750088,810.7365497780975)" r="17.272516712429304"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1184.3960946929444,932.5400992367432)" r="7.051475419857768"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1120.6510966521867,885.1024254542101)" r="9.972292173503371"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(1012.7782559301031,864.5397365968346)" r="15.767578380470841"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(975.0246357529066,868.1054343578016)" r="17.272516712429304"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf" transform="translate(951.50566444255,885.4207688858604)"
+				r="7.051475419857768"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(930.3060688373711,890.9361503381939)" r="9.972292173503371"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(897.8165156268788,899.1439294639121)" r="18.656450337028424"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(882.1150657246872,925.3961595959026)" r="7.051475419857768"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(849.553286856578,935.9575113225852)" r="22.298723191442665"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(831.8980227999666,973.2750006248391)" r="14.102950839715536"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(822.0740812054764,1000.5144053658194)" r="9.972292173503371"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(816.8211770947082,1021.7805588682969)" r="7.051475419857768"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(811.5171927899214,1040.009065585796)" r="7.051475419857768"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(807.8112158582601,1058.6283148090415)" r="7.051475419857768"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf" transform="translate(796.67389523078,1083.991333459139)"
+				r="15.767578380470841"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf" transform="translate(803.401509300804,1113.86456049556)"
+				r="9.972292173503371"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(809.4815230486977,1134.9091730891264)" r="7.051475419857768"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(813.9989612917706,1153.3483557818424)" r="7.051475419857768"
+				style="fill: rgb(174, 191, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(279.10162722914066,424.688150519276)" r="61.876445687822844"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node" transform="translate(156.94156352621872,562.2601048219256)"
+				r="117.22333286123171"
+				style="fill-opacity: 0; stroke: rgb(221, 221, 221); stroke-opacity: 1;"/>
+			<circle class="node node--leaf"
+				transform="translate(147.56972573393256,520.5979931553356)" r="7.051475419857768"
+				style="fill: rgb(105, 139, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(169.74811361717988,600.0067648313677)" r="70.51475419857768"
+				style="fill: rgb(105, 139, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(139.34316270515814,503.4885113575448)" r="7.051475419857768"
+				style="fill: rgb(105, 139, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(118.47230433041051,496.83647730102547)" r="9.972292173503371"
+				style="fill: rgb(105, 139, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(92.27670957370832,517.7345518854606)" r="18.656450337028424"
+				style="fill: rgb(105, 139, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(114.08025089236924,539.189637573928)" r="7.051475419857768"
+				style="fill: rgb(105, 139, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(125.66442303372169,520.5979931553356)" r="9.972292173503371"
+				style="fill: rgb(105, 139, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(168.6506883679063,514.6452374226627)" r="9.972292173503371"
+				style="fill: rgb(105, 139, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(156.86480940947976,496.1808028641612)" r="7.051475419857768"
+				style="fill: rgb(105, 139, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(140.50475506536154,481.61402874477005)" r="9.972292173503371"
+				style="fill: rgb(105, 139, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(114.8940075403695,468.1016414536212)" r="14.102950839715536"
+				style="fill: rgb(105, 139, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(97.66742070369557,487.62383370327404)" r="7.051475419857768"
+				style="fill: rgb(105, 139, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node" transform="translate(283.0425338796785,808.2577293809012)"
+				r="154.33009004689697"
+				style="fill-opacity: 0; stroke: rgb(221, 221, 221); stroke-opacity: 1;"/>
+			<circle class="node node--leaf"
+				transform="translate(254.21756123388792,820.6690020779859)" r="122.94667503208423"
+				style="fill: rgb(174, 105, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(408.42997646518756,820.6690020779859)" r="26.3842050923657"
+				style="fill: rgb(174, 105, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(394.3794964558824,770.1669440696706)" r="21.154426259573306"
+				style="fill: rgb(174, 105, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(371.2401145521676,730.4330845891363)" r="19.944584347006742"
+				style="fill: rgb(174, 105, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(340.8402272999061,713.4986136249474)" r="9.972292173503371"
+				style="fill: rgb(174, 105, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(319.0606864826548,694.4159879962617)" r="14.102950839715536"
+				style="fill: rgb(174, 105, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(293.1839910220679,691.5405895344974)" r="7.051475419857768"
+				style="fill: rgb(174, 105, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(274.6680874055832,687.3486902131416)" r="7.051475419857768"
+				style="fill: rgb(174, 105, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(253.22508873227733,682.8720738252357)" r="9.972292173503371"
+				style="fill: rgb(174, 105, 191); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(498.909633351969,845.4366625811521)" r="59.83375304102023"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(602.8858650416977,845.3910466470023)" r="39.260953548055944"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(670.1155559110437,827.5100936181826)" r="25.424456193971142"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(711.5929877374018,807.450271279322)" r="15.767578380470841"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(740.8212114339995,792.4281807157616)" r="12.213513695516735"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(769.4155571899273,779.9510587536346)" r="14.102950839715536"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(300.35301629552254,517.2436335405678)" r="28.205901679431072"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(900.7561385277843,621.1246088993146)" r="12.213513695516735"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(918.5906261703248,588.6613146368984)" r="19.944584347006742"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(914.7037682277578,554.0806583805247)" r="9.972292173503371"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(913.6815843106991,532.1992181530723)" r="7.051475419857768"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(914.0319425501606,513.2179654083409)" r="7.051475419857768"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(913.1659433188044,494.25324152459746)" r="7.051475419857768"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(911.0871422949529,475.3829131501741)" r="7.051475419857768"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(910.1108559955932,453.49937706823454)" r="9.972292173503371"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(901.8879655922642,433.1960187301983)" r="7.051475419857768"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(897.741294942129,411.68677864815044)" r="9.972292173503371"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"/>
+			<circle class="node node--leaf"
+				transform="translate(886.6546533838639,392.79422282988133)" r="7.051475419857768"
+				style="fill: rgb(105, 191, 139); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"
+			/>
+		</g>
+		<g>
+			<text text-anchor="middle" transform="translate(790,790)"
+				style="font-size: 11px; font-family: Arial, Helvetica;"/>
+			<text text-anchor="middle" transform="translate(617.7833679398155,517.2436335405678)"
+				style="font-size: 24px; font-family: Arial, Helvetica; font-weight: bold;">Frau</text>
+			<text text-anchor="middle" transform="translate(668.2451723177793,475.0628065767273)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Magen David</text>
+			<text text-anchor="middle" transform="translate(760.0463217639691,645.5733860043908)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Leuchter</text>
+			<text text-anchor="middle" transform="translate(482.97381742666335,429.61718464202664)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Baum</text>
+			<text text-anchor="middle" transform="translate(413.6683734676461,406.86592643427923)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Vanitas-Symbol</text>
+			<text text-anchor="middle" transform="translate(415.07119634996536,481.3019019441703)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Sonne</text>
+			<text text-anchor="middle" transform="translate(433.6602154272192,533.3079102147408)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Buch</text>
+			<text text-anchor="middle" transform="translate(488.90635393639775,562.2819008118215)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Levitenkanne</text>
+			<text text-anchor="middle" transform="translate(515.6195122806873,625.4339847208043)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Krone</text>
+			<text text-anchor="middle" transform="translate(577.2949990439372,650.1436784487228)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Schmetterling</text>
+			<text text-anchor="middle" transform="translate(633.8568615579427,688.4222075233965)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Blume</text>
+			<text text-anchor="middle" transform="translate(688.3582688807871,663.089168811204)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Auge</text>
+			<text text-anchor="middle" transform="translate(722.718254427157,657.8836555566141)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Stern</text>
+			<text text-anchor="middle" transform="translate(465.0431745516355,475.0628065767273)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Rose</text>
+			<text text-anchor="middle" transform="translate(777.6579708755585,620.5624897488728)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Hand aus Wolke</text>
+			<text text-anchor="middle" transform="translate(811.8956517627516,611.885434548518)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Traube</text>
+			<text text-anchor="middle" transform="translate(818.8964480934571,577.2660912529086)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Bundestafeln</text>
+			<text text-anchor="middle" transform="translate(828.7208620410712,561.0213506504472)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Harfe</text>
+			<text text-anchor="middle" transform="translate(843.1956796408468,541.6943155061813)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Vogel</text>
+			<text text-anchor="middle" transform="translate(853.642162948003,512.2972719782913)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Herz</text>
+			<text text-anchor="middle" transform="translate(849.9314078625058,486.5271035471512)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Gans</text>
+			<text text-anchor="middle" transform="translate(858.4259253720556,460.16110654183313)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Händedruck</text>
+			<text text-anchor="middle" transform="translate(847.9805206550564,431.3763188069404)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Wappen</text>
+			<text text-anchor="middle" transform="translate(838.8264296089145,411.4754418537302)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Priesterhände</text>
+			<text text-anchor="middle" transform="translate(832.7201558038543,390.4384338296432)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Ouroboros</text>
+			<text text-anchor="middle" transform="translate(819.1537142588297,373.2397725389119)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Taube</text>
+			<text text-anchor="middle" transform="translate(1145.527442315983,952.3449542984146)"
+				style="font-size: 24px; font-family: Arial, Helvetica; font-weight: bold;">Mann</text>
+			<text text-anchor="middle" transform="translate(1322.0749249505716,932.5400992367432)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Priesterhände</text>
+			<text text-anchor="middle" transform="translate(1100.7937901268006,738.5407188482709)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Levitenkanne</text>
+			<text text-anchor="middle" transform="translate(1165.285726491072,894.389144367298)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Blume</text>
+			<text text-anchor="middle" transform="translate(1024.3307830633842,1092.045944087615)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Magen David</text>
+			<text text-anchor="middle" transform="translate(1284.7226731663607,1108.0917602535858)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Vanitas-Symbol</text>
+			<text text-anchor="middle" transform="translate(1352.8131385184731,1079.9411545128773)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Schofar</text>
+			<text text-anchor="middle" transform="translate(1393.1879660869295,1063.7978223154469)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Auge</text>
+			<text text-anchor="middle" transform="translate(1458.6976175913892,1043.1404438634763)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Buch</text>
+			<text text-anchor="middle" transform="translate(1456.4682201892567,980.9338583202356)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">milit. Symbol</text>
+			<text text-anchor="middle" transform="translate(1475.5649516436379,945.2390537605577)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Stern</text>
+			<text text-anchor="middle" transform="translate(1477.8346479090383,884.6990320648266)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Krone</text>
+			<text text-anchor="middle" transform="translate(1440.3728675488765,852.483178859104)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Wappen</text>
+			<text text-anchor="middle" transform="translate(1422.6217760122508,817.3154660935777)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Leuchter</text>
+			<text text-anchor="middle" transform="translate(1385.3741308094907,804.4904047389675)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Händedruck</text>
+			<text text-anchor="middle" transform="translate(1353.6799013131822,785.3224564795562)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Beschneidungsmesser</text>
+			<text text-anchor="middle" transform="translate(1305.8337569489524,779.3843739040633)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Löwe</text>
+			<text text-anchor="middle" transform="translate(1270.5896094278482,799.3005555236655)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Gans</text>
+			<text text-anchor="middle" transform="translate(1238.1805428750088,810.7365497780975)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Hirsch</text>
+			<text text-anchor="middle" transform="translate(1184.3960946929444,932.5400992367432)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Ouroboros</text>
+			<text text-anchor="middle" transform="translate(1120.6510966521867,885.1024254542101)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Bundestafeln</text>
+			<text text-anchor="middle" transform="translate(1012.7782559301031,864.5397365968346)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Baum</text>
+			<text text-anchor="middle" transform="translate(975.0246357529066,868.1054343578016)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Traube</text>
+			<text text-anchor="middle" transform="translate(951.50566444255,885.4207688858604)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">magdav</text>
+			<text text-anchor="middle" transform="translate(930.3060688373711,890.9361503381939)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Harfe</text>
+			<text text-anchor="middle" transform="translate(897.8165156268788,899.1439294639121)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Schmetterling</text>
+			<text text-anchor="middle" transform="translate(882.1150657246872,925.3961595959026)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Schriftrolle</text>
+			<text text-anchor="middle" transform="translate(849.553286856578,935.9575113225852)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Rose</text>
+			<text text-anchor="middle" transform="translate(831.8980227999666,973.2750006248391)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Feder</text>
+			<text text-anchor="middle" transform="translate(822.0740812054764,1000.5144053658194)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Vogel</text>
+			<text text-anchor="middle" transform="translate(816.8211770947082,1021.7805588682969)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Hammer</text>
+			<text text-anchor="middle" transform="translate(811.5171927899214,1040.009065585796)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Bär</text>
+			<text text-anchor="middle" transform="translate(807.8112158582601,1058.6283148090415)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">offene Hand</text>
+			<text text-anchor="middle" transform="translate(796.67389523078,1083.991333459139)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Herz</text>
+			<text text-anchor="middle" transform="translate(803.401509300804,1113.86456049556)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Taube</text>
+			<text text-anchor="middle" transform="translate(809.4815230486977,1134.9091730891264)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Waage</text>
+			<text text-anchor="middle" transform="translate(813.9989612917706,1153.3483557818424)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Sonne</text>
+			<text text-anchor="middle" transform="translate(279.10162722914066,424.688150519276)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Magen David</text>
+			<text text-anchor="middle" transform="translate(156.94156352621872,562.2601048219256)"
+				style="font-size: 24px; font-family: Arial, Helvetica; font-weight: bold;">unbekannt</text>
+			<text text-anchor="middle" transform="translate(147.56972573393256,520.5979931553356)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Bundestafeln</text>
+			<text text-anchor="middle" transform="translate(169.74811361717988,600.0067648313677)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Magen David</text>
+			<text text-anchor="middle" transform="translate(139.34316270515814,503.4885113575448)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Blume</text>
+			<text text-anchor="middle" transform="translate(118.47230433041051,496.83647730102547)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Sonne</text>
+			<text text-anchor="middle" transform="translate(92.27670957370832,517.7345518854606)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Leuchter</text>
+			<text text-anchor="middle" transform="translate(114.08025089236924,539.189637573928)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Baum</text>
+			<text text-anchor="middle" transform="translate(125.66442303372169,520.5979931553356)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Vanitas-Symbol</text>
+			<text text-anchor="middle" transform="translate(168.6506883679063,514.6452374226627)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Rose</text>
+			<text text-anchor="middle" transform="translate(156.86480940947976,496.1808028641612)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Levitenkanne</text>
+			<text text-anchor="middle" transform="translate(140.50475506536154,481.61402874477005)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Schmetterling</text>
+			<text text-anchor="middle" transform="translate(114.8940075403695,468.1016414536212)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Priesterhände</text>
+			<text text-anchor="middle" transform="translate(97.66742070369557,487.62383370327404)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Beschneidungsmesser</text>
+			<text text-anchor="middle" transform="translate(283.0425338796785,808.2577293809012)"
+				style="font-size: 24px; font-family: Arial, Helvetica; font-weight: bold;">beide</text>
+			<text text-anchor="middle" transform="translate(254.21756123388792,820.6690020779859)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Magen David</text>
+			<text text-anchor="middle" transform="translate(408.42997646518756,820.6690020779859)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Priesterhände</text>
+			<text text-anchor="middle" transform="translate(394.3794964558824,770.1669440696706)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Levitenkanne</text>
+			<text text-anchor="middle" transform="translate(371.2401145521676,730.4330845891363)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Vanitas-Symbol</text>
+			<text text-anchor="middle" transform="translate(340.8402272999061,713.4986136249474)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Schmetterling</text>
+			<text text-anchor="middle" transform="translate(319.0606864826548,694.4159879962617)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">milit. Symbol</text>
+			<text text-anchor="middle" transform="translate(293.1839910220679,691.5405895344974)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Händedruck</text>
+			<text text-anchor="middle" transform="translate(274.6680874055832,687.3486902131416)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Rose</text>
+			<text text-anchor="middle" transform="translate(253.22508873227733,682.8720738252357)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Leuchter</text>
+			<text text-anchor="middle" transform="translate(498.909633351969,845.4366625811521)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Priesterhände</text>
+			<text text-anchor="middle" transform="translate(602.8858650416977,845.3910466470023)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Levitenkanne</text>
+			<text text-anchor="middle" transform="translate(670.1155559110437,827.5100936181826)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Vanitas-Symbol</text>
+			<text text-anchor="middle" transform="translate(711.5929877374018,807.450271279322)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Blume</text>
+			<text text-anchor="middle" transform="translate(740.8212114339995,792.4281807157616)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Sonne</text>
+			<text text-anchor="middle" transform="translate(769.4155571899273,779.9510587536346)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Bundestafeln</text>
+			<text text-anchor="middle" transform="translate(300.35301629552254,517.2436335405678)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Lilie</text>
+			<text text-anchor="middle" transform="translate(900.7561385277843,621.1246088993146)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Schofar</text>
+			<text text-anchor="middle" transform="translate(918.5906261703248,588.6613146368984)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Krone</text>
+			<text text-anchor="middle" transform="translate(914.7037682277578,554.0806583805247)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Löwe</text>
+			<text text-anchor="middle" transform="translate(913.6815843106991,532.1992181530723)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Auge</text>
+			<text text-anchor="middle" transform="translate(914.0319425501606,513.2179654083409)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Schmetterling</text>
+			<text text-anchor="middle" transform="translate(913.1659433188044,494.25324152459746)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Baum</text>
+			<text text-anchor="middle" transform="translate(911.0871422949529,475.3829131501741)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Herz</text>
+			<text text-anchor="middle" transform="translate(910.1108559955932,453.49937706823454)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Buch</text>
+			<text text-anchor="middle" transform="translate(901.8879655922642,433.1960187301983)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Händedruck</text>
+			<text text-anchor="middle" transform="translate(897.741294942129,411.68677864815044)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Waage</text>
+			<text text-anchor="middle" transform="translate(886.6546533838639,392.79422282988133)"
+				style="font-size: 11px; font-family: Arial, Helvetica;">Leuchter</text>
+		</g>
+	</g>
+</svg>

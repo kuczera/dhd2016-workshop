@@ -1,0 +1,5995 @@
+{
+  "head" : {
+    "vars" : [ ],
+    "vars" : [
+      "root_name",
+      "parent_name",
+      "child_name"
+    ],
+    "link" : [
+      "info"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Sondershausen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Auge"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Auge"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Auge"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Chemnitz"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Auge"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bonn-Schwarzrheindorf"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Baum"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mülheim an der Ruhr"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Baum"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Baum"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach-Rheindahlen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Baum"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Roermond"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Baum"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Baum"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Beschneidungsmesser"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Beschneidungsmesser"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Boxmeer/Vierlingsbeek"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Beschneidungsmesser"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bayreuth"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Beschneidungsmesser"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Blieskastel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Blume"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Blume"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Tholey"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Blume"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Winsen an der Luhe"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Blume"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mülheim an der Ruhr"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Blume"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Worms"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Blume"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Blume"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main-Heddernheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Blume"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Blume"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Geseke"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Blume"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Viersen-Dülken"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Buch"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Buch"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Buch"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Neuss"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Buch"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (neuer Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Buch"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (alter Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Buch"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Buch"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Geseke"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Buch"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Bundestafeln"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Bundestafeln"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Siegburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Bundestafeln"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (neuer Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Bundestafeln"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (alter Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Bundestafeln"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Bär"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Würzburg - Heidingsfeld"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Feder"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Feder"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Gans"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main-Heddernheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Gans"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Gans"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Geldern"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Hammer"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Hand aus Wolke"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Rheineck-Bad Breisig"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Harfe"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bayreuth"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Harfe"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Harfe"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach-Rheindahlen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Harfe"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Preußisch Oldendorf"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Herz"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bayreuth"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Herz"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mülheim an der Ruhr"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Herz"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Herz"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Hirsch"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Würzburg - Heidingsfeld"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Hirsch"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hildesheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Hirsch"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Hirsch"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Händedruck"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Heiligenhaus"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Händedruck"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Händedruck"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Sittard"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Händedruck"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Roermond"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Händedruck"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Beelitz"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Oranienburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Rheineck-Bad Breisig"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Preußisch Oldendorf"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bonn-Schwarzrheindorf"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bayreuth"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Duisburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Duisburg-Mattlerbusch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Worms"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Chemnitz"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Altena"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schmalkalden"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Rüthen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Heiligenhaus"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Leuchter"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Würzburg - Heidingsfeld"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Leuchter"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Saarbrücken"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Leuchter"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mülheim an der Ruhr"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Leuchter"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Leuchter"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach-Rheindahlen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Leuchter"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (neuer Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Leuchter"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (alter Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Leuchter"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Leuchter"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Sötern"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Leuchter"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Beelitz"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Oranienburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Blieskastel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bornheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bornheim-Hersel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Dillingen-Diefflen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Dinslaken"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Eschweiler-Weisweiler (Alter Teil)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Geldern"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Korschenbroich-Glehn"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hennef"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Korschenbroich"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schnaittach"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Winsen an der Luhe"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bonn-Schwarzrheindorf"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bayreuth"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Würzburg - Heidingsfeld"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Ansbach"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mülheim an der Ruhr"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Duisburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Duisburg-Mattlerbusch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach-Rheindahlen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Siegburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Worms"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hildesheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main-Heddernheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Chemnitz"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (neuer Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (alter Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Altena"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Homburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Brüggen-Bracht"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Linnich"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schmalkalden"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Kusterdingen-Wankheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Rüthen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Saarwellingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Titz-Rödingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main-Rödelheim (Alter Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Illingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Worms"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Lilie"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Beelitz"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Löwe"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Löwe"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bayreuth"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Löwe"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Löwe"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main-Heddernheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Löwe"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Löwe"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Duisburg-Beeck"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Grimlinghausen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld-Linn"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach-Odenkirchen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Beelitz"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Oranienburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Sondershausen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bornheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bornheim-Hersel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Viersen-Dülken"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Dillingen-Diefflen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Dinslaken"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Dormagen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Euskirchen-Kuchenheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Höxter-Fürstenau"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Geldern"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Korschenbroich-Glehn"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Grevenbroich"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Grevenbroich-Hülchrath"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld-Hüls"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Heiligenhaus"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Grevenbroich-Hemmerden"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hennef"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Jüchen-Hochneukirch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Jüchen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Korschenbroich"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Merzig"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Nettetal-Kaldenkirchen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Neunkirchen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Ottweiler"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Preußisch Oldendorf"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Rommerskirchen-Butzheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "St. Wendel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schermbeck"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schiefbahn"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schnaittach"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schwalmtal-Waldniel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Tholey"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Grevenbroich-Wevelinghoven"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach-Wickrath"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Willich"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Boxmeer/Vierlingsbeek"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Sittard"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Jüchen-Garzweiler"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bonn-Schwarzrheindorf"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bayreuth"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Würzburg - Heidingsfeld"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Saarbrücken"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Ansbach"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mülheim an der Ruhr"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Duisburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Duisburg-Mattlerbusch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach-Rheindahlen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach-Rheydt"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Dormagen-Zons"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Neuss"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Siegburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Viersen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Kempen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main-Heddernheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Chemnitz"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (neuer Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (alter Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Ahaus"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Altena"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Venlo"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Roermond"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Homburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Brüggen-Bracht"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Brühl"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Geseke"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Linnich"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bad Münstereifel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bad Münstereifel-Arloff"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Saarlouis"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "St. Ingbert"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Quedlinburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schmalkalden"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Erfurt"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Kusterdingen-Wankheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Rüthen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Saarwellingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Titz-Rödingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Illingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hellenthal-Blumenthal"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Gennep"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Ouroboros"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Beelitz"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Oranienburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Sondershausen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Rheineck-Bad Breisig"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Blieskastel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bornheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bornheim-Hersel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Dillingen-Diefflen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Dormagen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Geldern"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Heiligenhaus"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hennef"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Ottweiler"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Preußisch Oldendorf"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "St. Wendel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schnaittach"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Tholey"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Immenrode"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Boxmeer/Vierlingsbeek"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Sittard"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bonn-Schwarzrheindorf"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bornheim-Walberberg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bayreuth"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Würzburg - Heidingsfeld"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Saarbrücken"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mülheim an der Ruhr"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach-Rheindahlen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach-Rheydt"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Neuss"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Siegburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Worms"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Kempen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hildesheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main-Heddernheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Chemnitz"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (neuer Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (alter Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Ahaus"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Altena"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Venlo"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Roermond"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Homburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Brühl"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Geseke"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bad Münstereifel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bad Münstereifel-Arloff"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Saarlouis"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "St. Ingbert"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schmalkalden"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Erfurt"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Kusterdingen-Wankheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Gonnesweiler"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hellenthal-Blumenthal"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Gennep"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Dillingen-Diefflen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Rose"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Ottweiler"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Rose"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bayreuth"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Rose"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mülheim an der Ruhr"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Rose"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Rose"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main-Heddernheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Rose"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Chemnitz"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Rose"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Rose"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Rose"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schmalkalden"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Rose"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bleicherode"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Sondershausen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Dillingen-Diefflen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Korschenbroich"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach-Wickrath"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bonn-Schwarzrheindorf"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bayreuth"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Saarbrücken"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mülheim an der Ruhr"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach-Rheydt"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (neuer Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (alter Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Homburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Geseke"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Quedlinburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bornheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schofar"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bornheim-Hersel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schofar"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schofar"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schofar"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bonn-Schwarzrheindorf"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schofar"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bayreuth"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schofar"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schofar"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Rüthen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schofar"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Schriftrolle"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Duisburg-Beeck"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Sonne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Sonne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Worms"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Sonne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Sonne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Rüthen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Sonne"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Dillingen-Diefflen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Stern"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Stern"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Saarbrücken"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Stern"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Stern"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main-Heddernheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Stern"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Stern"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Blieskastel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Taube"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mülheim an der Ruhr"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Taube"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Taube"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Traube"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Duisburg-Beeck"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bleicherode"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Blieskastel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Dillingen-Diefflen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Meerbusch-Lank-Latum"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Laupheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Preußisch Oldendorf"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "St. Wendel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bayreuth"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Würzburg - Heidingsfeld"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Saarbrücken"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mülheim an der Ruhr"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mönchengladbach-Rheindahlen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (neuer Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (alter Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Homburg"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Geseke"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Saarlouis"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schmalkalden"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Erfurt"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Kusterdingen-Wankheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Rüthen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Gonnesweiler"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hellenthal-Blumenthal"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vogel"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Frankfurt am Main-Heddernheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vogel"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hamburg-Altona"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Vogel"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Grevenbroich"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Waage"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Grevenbroich-Hülchrath"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Waage"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Worms"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Waage"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Würzburg - Heidingsfeld"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Wappen"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hildesheim"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "magdav"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Sondershausen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "milit. Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Geldern"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "milit. Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "milit. Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Mülheim an der Ruhr"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "milit. Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (neuer Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "milit. Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krefeld (alter Friedhof)"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "milit. Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bingen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "milit. Symbol"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Haigerloch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "offene Hand"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Auge"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Baum"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Beschneidungsmesser"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Blume"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Buch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bundestafeln"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Bär"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Feder"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Gans"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hammer"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hand aus Wolke"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Harfe"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Herz"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Hirsch"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Händedruck"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Krone"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Leuchter"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Levitenkanne"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Lilie"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Löwe"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Magen David"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Ouroboros"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Priesterhände"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Rose"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schmetterling"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schofar"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Schriftrolle"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Sonne"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Stern"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Taube"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Traube"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Vanitas-Symbol"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Vogel"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Waage"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "Wappen"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "magdav"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "milit. Symbol"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      },
+      {
+        "child_name" : {
+          "type" : "literal",
+          "value" : "offene Hand"
+        },
+        "root_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        },
+        "parent_name" : {
+          "type" : "literal",
+          "value" : "Symbole"
+        }
+      }
+    ]
+  }
+}
