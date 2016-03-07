@@ -1,0 +1,1449 @@
+{
+  "head" : {
+    "vars" : [ ],
+    "vars" : [
+      "subject",
+      "subjectLabel",
+      "object",
+      "objectLabel",
+      "predicate"
+    ],
+    "link" : [
+      "info"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Ascher ben Elieser (Aser Gumpert)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-15-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-54-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Rechle bat Naftali ⚭ Elieser ben Ascher Gumpert"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Mosche ben Ascher Gumpert"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Ascher ben Binjamin Efraim (Aser Gumpert)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Mosche ben Ascher Gumpert"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-3-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Hanna bat Elieser (Hanna Gumpert geb. Leser)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Rechle bat Naftali ⚭ Elieser ben Ascher Gumpert"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-15-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Ascher ben Binjamin Efraim (Aser Gumpert)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "David ben Ascher Gumpert"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-9-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Ascher ben Binjamin Efraim (Aser Gumpert)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "David ben Ascher Gumpert"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-3-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-9-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Hanna bat Elieser (Hanna Gumpert geb. Leser)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Mosche ben Aharon Halevi (Moses Löwenstein)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-6-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Aharon ben Awraham Halevi"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Kalonymos ben Schlomo Halevi (Karl Löwenstein)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-18-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-11-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Bräunsche bat Jizchak"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Kalonymos ben Schlomo Halevi (Karl Löwenstein)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-4-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-11-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Schlomo ben Awraham SeGal"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "David ben Schlomo Halevi"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-18-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-2-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Bräunsche bat Jizchak"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "David ben Schlomo Halevi"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-4-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-2-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Schlomo ben Awraham SeGal"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Josef ben Elieser Hakohen (Josef Cohn)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-12-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Perla ⚭ Elieser Hakohen"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Gudle bat Elieser Hakohen (Julchen Cohen)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-12-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-43-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Perla ⚭ Elieser Hakohen"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Elieser ben Josef Hakohen"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Josef ben Elieser Hakohen (Josef Cohn)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Elieser ben Josef Hakohen"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-48-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Jettle bat Jischai (Jettchen Cohen geb. Elkan)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Ascher ben Mosche (Aser Gumpert)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-32-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Mosche ben Ascher Gumpert"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Ascher ben Mosche (Aser Gumpert)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-7-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-32-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Fradche bat Schlomo ⚭ Mosche ben Ascher (Rieka Gumpert geb. Rose)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Naftali ben Elieser (Herz Gumpert)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-15-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-39-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Rechle bat Naftali ⚭ Elieser ben Ascher Gumpert"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Elieser Jaakow ben Efraim (Leffmann Gottschalk)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-20-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-25-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Abraham Gottschalk"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Elieser Jaakow ben Efraim (Leffmann Gottschalk)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-36-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-25-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Reis'che bat Menachem"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Josef ben Efraim (Josef Gottschalk)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-20-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-46-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Abraham Gottschalk"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Josef ben Efraim (Josef Gottschalk)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-35-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-46-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Rös'che bat Josef"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Jizchak ben Efraim (I. Gottschalk)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-20-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-55-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Abraham Gottschalk"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Jizchak ben Efraim (I. Gottschalk)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-36-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-55-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Reis'che bat Menachem"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Joseph Cohen"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-57-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-33-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Gitel bat Jizchak (Gertrud Cohen geb. Schönbach)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Jischai ben Josef Hakohen (Julius Cohen)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-50-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Josef ben Elieser Hakohen (Josef Cohn)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Jischai ben Josef Hakohen (Julius Cohen)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-48-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-50-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Jettle bat Jischai (Jettchen Cohen geb. Elkan)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Schlomo ben Aharon Halevi (Salomon Löwenstein)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-6-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Aharon ben Awraham Halevi"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Jette bat Schlomo Halevi ([Hen...] Löwenstein)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-23-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Schlomo ben Aharon Halevi (Salomon Löwenstein)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Aharon ben Schlomo Halevi (Adolf Löwenstein)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-24-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Schlomo ben Aharon Halevi (Salomon Löwenstein)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Bula bat Zwi (Else Löwenstein geb. Ostberg)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-49-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Schlomo ben Aharon Halevi (Salomon Löwenstein)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Bula bat Zwi (Else Löwenstein geb. Ostberg)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-45-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-49-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Riwka bat Hunja Hakohen (Rebekkah Löwenstein geb. Cohn)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Edith Löwenstein"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-49-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/parentOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-41-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Bula bat Zwi (Else Löwenstein geb. Ostberg)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Ascher ben Binjamin Efraim (Aser Gumpert)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-3-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Hanna bat Elieser (Hanna Gumpert geb. Leser)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Mosche ben Ascher Gumpert"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-7-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Fradche bat Schlomo ⚭ Mosche ben Ascher (Rieka Gumpert geb. Rose)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Hanna bat Elieser (Hanna Gumpert geb. Leser)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-3-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Ascher ben Binjamin Efraim (Aser Gumpert)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Bula bat Juda ⚭ Mosche Löwenstein"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-10-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Mosche ben Aharon Halevi (Moses Löwenstein)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Mosche ben Aharon Halevi (Moses Löwenstein)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-10-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Bula bat Juda ⚭ Mosche Löwenstein"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Mosche ben Aharon Halevi (Moses Löwenstein)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-17-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Süss'che bat Essriel"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Josef ben Elieser Hakohen (Josef Cohn)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-48-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Jettle bat Jischai (Jettchen Cohen geb. Elkan)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Ascher ben Mosche (Aser Gumpert)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-51-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-32-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Fradche bat Natan (Friederike Gumpert geb. Wolf)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Fradche bat Schlomo ⚭ Mosche ben Ascher (Rieka Gumpert geb. Rose)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-7-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Mosche ben Ascher Gumpert"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Süss'che bat Essriel"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-17-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Mosche ben Aharon Halevi (Moses Löwenstein)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Bräunsche bat Jizchak"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-4-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-18-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Schlomo ben Awraham SeGal"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Schlomo ben Awraham SeGal"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-18-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-4-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Bräunsche bat Jizchak"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Pinchas ben Mosche (Benjami[n Bendix])"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-26-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-19-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Reis'che bat Jizchak"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Reis'che bat Jizchak"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-19-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-26-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Pinchas ben Mosche (Benjami[n Bendix])"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Abraham Gottschalk"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-36-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-20-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Reis'che bat Menachem"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Josef ben Efraim (Josef Gottschalk)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-47-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-46-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Bella bat Gerschon (Sibilla Gottschalk geb. Lebenstein)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Jizchak ben Efraim (I. Gottschalk)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-30-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-55-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Etel bat Mosche (Emilie Gottschalk geb. Steinberg)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Reis'che bat Menachem"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-20-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-36-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Abraham Gottschalk"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Jettle bat Jischai (Jettchen Cohen geb. Elkan)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-48-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Josef ben Elieser Hakohen (Josef Cohn)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Schlomo ben Aharon Halevi (Salomon Löwenstein)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-45-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Riwka bat Hunja Hakohen (Rebekkah Löwenstein geb. Cohn)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Jehuda ben Menachem Landau (L. Landau)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-35-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-27-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Rös'che bat Josef"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Rös'che bat Josef"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-27-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-35-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Jehuda ben Menachem Landau (L. Landau)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Riwka bat Hunja Hakohen (Rebekkah Löwenstein geb. Cohn)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-45-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Schlomo ben Aharon Halevi (Salomon Löwenstein)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Etel bat Mosche (Emilie Gottschalk geb. Steinberg)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-55-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-30-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Jizchak ben Efraim (I. Gottschalk)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Fradche bat Natan (Friederike Gumpert geb. Wolf)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-32-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-51-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Ascher ben Mosche (Aser Gumpert)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Jekutiel ben Refael Halevi (Alex Schlösser)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-52-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-34-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Tirza ⚭ Schlösser (Alex Schlösser geb. Menke)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Tirza ⚭ Schlösser (Alex Schlösser geb. Menke)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-34-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-52-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Jekutiel ben Refael Halevi (Alex Schlösser)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Hanche bat Jaakow (Johanna Winkler geb. Alexander)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-56-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-40-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Mosche ben Schlomo Halevi (Moritz Winkler)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Mosche ben Schlomo Halevi (Moritz Winkler)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-40-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-56-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Hanche bat Jaakow (Johanna Winkler geb. Alexander)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Bella bat Gerschon (Sibilla Gottschalk geb. Lebenstein)"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-46-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-47-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Josef ben Efraim (Josef Gottschalk)"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Aharon ben Awraham Halevi"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-8-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-6-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Ester bat Jechiel"
+        }
+      },
+      {
+        "objectLabel" : {
+          "type" : "literal",
+          "value" : "Ester bat Jechiel"
+        },
+        "subject" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-6-1"
+        },
+        "predicate" : {
+          "type" : "uri",
+          "value" : "http://purl.org/vocab/relationship/spouseOf"
+        },
+        "object" : {
+          "type" : "uri",
+          "value" : "http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-8-1"
+        },
+        "subjectLabel" : {
+          "type" : "literal",
+          "value" : "Aharon ben Awraham Halevi"
+        }
+      }
+    ]
+  }
+}

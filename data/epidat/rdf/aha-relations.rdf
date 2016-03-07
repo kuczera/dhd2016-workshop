@@ -1,0 +1,1747 @@
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:bio="http://purl.org/vocab/bio/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:owltime="http://www.w3.org/2006/time#" xmlns:epidat="http://www.steinheim-institut.de/cgi-bin/epidat?id=" xmlns:rel="http://purl.org/vocab/relationship/">
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-2-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-3-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-4-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-5-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-6-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-7-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-8-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-9-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-10-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-11-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-12-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-2">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-15-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-16-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-17-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-18-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-19-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-20-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-23-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-24-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-25-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-26-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-27-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-28-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-30-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-31-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-32-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-33-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-34-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-35-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-36-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-37-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-38-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-39-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-40-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-41-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-42-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-43-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-44-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-45-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-46-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-47-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-48-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-49-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-50-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-51-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-52-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-53-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-54-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-55-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-56-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-57-1">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1">
+	<rdfs:label>Ascher ben Binjamin Efraim (Aser Gumpert)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-2-1">
+	<rdfs:label>David ben Schlomo Halevi</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-3-1">
+	<rdfs:label>Hanna bat Elieser (Hanna Gumpert geb. Leser)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-4-1">
+	<rdfs:label>Schlomo ben Awraham SeGal</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-5-1">
+	<rdfs:label>Pinchas ben Awraham Halevi</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-6-1">
+	<rdfs:label>Aharon ben Awraham Halevi</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-7-1">
+	<rdfs:label>Fradche bat Schlomo ⚭ Mosche ben Ascher (Rieka Gumpert geb. Rose)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-8-1">
+	<rdfs:label>Ester bat Jechiel</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-9-1">
+	<rdfs:label>David ben Ascher Gumpert</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-10-1">
+	<rdfs:label>Bula bat Juda ⚭ Mosche Löwenstein</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-11-1">
+	<rdfs:label>Kalonymos ben Schlomo Halevi (Karl Löwenstein)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-12-1">
+	<rdfs:label>Perla ⚭ Elieser Hakohen</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-1">
+	<rdfs:label>Elieser ben Josef Hakohen</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-2">
+	<rdfs:label>Jehuda</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1">
+	<rdfs:label>Mosche ben Ascher Gumpert</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-15-1">
+	<rdfs:label>Rechle bat Naftali ⚭ Elieser ben Ascher Gumpert</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-16-1">
+	<rdfs:label>Sprinz bat Jizchak</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-17-1">
+	<rdfs:label>Süss'che bat Essriel</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-18-1">
+	<rdfs:label>Bräunsche bat Jizchak</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-19-1">
+	<rdfs:label>Pinchas ben Mosche (Benjami[n Bendix])</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-20-1">
+	<rdfs:label>Abraham Gottschalk</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1">
+	<rdfs:label>Josef ben Elieser Hakohen (Josef Cohn)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1">
+	<rdfs:label>Mosche ben Aharon Halevi (Moses Löwenstein)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-23-1">
+	<rdfs:label>Jette bat Schlomo Halevi ([Hen...] Löwenstein)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-24-1">
+	<rdfs:label>Aharon ben Schlomo Halevi (Adolf Löwenstein)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-25-1">
+	<rdfs:label>Elieser Jaakow ben Efraim (Leffmann Gottschalk)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-26-1">
+	<rdfs:label>Reis'che bat Jizchak</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-27-1">
+	<rdfs:label>Jehuda ben Menachem Landau (L. Landau)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-28-1">
+	<rdfs:label>Mosche ben Awraham Halevi</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1">
+	<rdfs:label>Schlomo ben Aharon Halevi (Salomon Löwenstein)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-30-1">
+	<rdfs:label>Etel bat Mosche (Emilie Gottschalk geb. Steinberg)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-31-1">
+	<rdfs:label>Sophia de_Jong geb. Steinfeld</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-32-1">
+	<rdfs:label>Ascher ben Mosche (Aser Gumpert)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-33-1">
+	<rdfs:label>Joseph Cohen</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-34-1">
+	<rdfs:label>Jekutiel ben Refael Halevi (Alex Schlösser)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-35-1">
+	<rdfs:label>Rös'che bat Josef</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-36-1">
+	<rdfs:label>Reis'che bat Menachem</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-37-1">
+	<rdfs:label>Efraim ben Refael Halevi (Gumpel Schlösser)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-38-1">
+	<rdfs:label>Hindel bat Refael Halevi (Helena Cohen geb. Schlösser)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-39-1">
+	<rdfs:label>Naftali ben Elieser (Herz Gumpert)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-40-1">
+	<rdfs:label>Hanche bat Jaakow (Johanna Winkler geb. Alexander)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-41-1">
+	<rdfs:label>Edith Löwenstein</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-42-1">
+	<rdfs:label>Schimon ben Mosche (Simon de Jong)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-43-1">
+	<rdfs:label>Gudle bat Elieser Hakohen (Julchen Cohen)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-44-1">
+	<rdfs:label>Jacob de_Jong</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-45-1">
+	<rdfs:label>Riwka bat Hunja Hakohen (Rebekkah Löwenstein geb. Cohn)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-46-1">
+	<rdfs:label>Josef ben Efraim (Josef Gottschalk)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-47-1">
+	<rdfs:label>Bella bat Gerschon (Sibilla Gottschalk geb. Lebenstein)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-48-1">
+	<rdfs:label>Jettle bat Jischai (Jettchen Cohen geb. Elkan)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-49-1">
+	<rdfs:label>Bula bat Zwi (Else Löwenstein geb. Ostberg)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-50-1">
+	<rdfs:label>Jischai ben Josef Hakohen (Julius Cohen)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-51-1">
+	<rdfs:label>Fradche bat Natan (Friederike Gumpert geb. Wolf)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-52-1">
+	<rdfs:label>Tirza ⚭ Schlösser (Alex Schlösser geb. Menke)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-53-1">
+	<rdfs:label>Netta Frankenhaus geb. Frank</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-54-1">
+	<rdfs:label>Ascher ben Elieser (Aser Gumpert)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-55-1">
+	<rdfs:label>Jizchak ben Efraim (I. Gottschalk)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-56-1">
+	<rdfs:label>Mosche ben Schlomo Halevi (Moritz Winkler)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-57-1">
+	<rdfs:label>Gitel bat Jizchak (Gertrud Cohen geb. Schönbach)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-2-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-4-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-5-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-6-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-9-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-11-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-2">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-19-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-20-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-24-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-25-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-27-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-28-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-32-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-33-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-34-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-37-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-39-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-42-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-44-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-46-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-50-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-54-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-55-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-56-1">
+	<foaf:gender xml:lang="en">male</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-3-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-7-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-8-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-10-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-12-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-15-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-16-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-17-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-18-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-23-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-26-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-30-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-35-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-36-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-38-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-40-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-41-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-43-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-45-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-47-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-48-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-49-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-51-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-52-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-53-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-57-1">
+	<foaf:gender xml:lang="en">female</foaf:gender>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-1-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-2-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-2-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-3-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-3-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-4-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-4-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-5-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-5-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-6-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-6-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-7-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-7-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-8-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-8-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-9-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-9-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-10-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-10-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-11-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-11-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-12-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-12-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-13-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-2">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-13-2-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-14-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-15-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-15-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-16-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-16-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-17-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-17-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-18-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-18-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-19-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-19-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-20-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-20-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-21-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-22-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-23-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-23-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-24-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-24-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-25-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-25-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-26-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-26-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-27-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-27-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-28-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-28-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-29-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-30-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-30-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-31-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-31-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-32-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-32-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-33-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-33-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-34-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-34-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-35-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-35-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-36-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-36-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-37-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-37-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-38-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-38-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-39-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-39-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-40-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-40-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-41-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-41-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-42-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-42-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-43-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-43-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-44-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-44-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-45-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-45-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-46-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-46-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-47-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-47-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-48-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-48-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-49-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-49-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-50-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-50-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-51-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-51-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-52-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-52-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-53-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-53-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-54-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-54-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-55-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-55-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-56-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-56-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-57-1">
+	<bio:agent rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-57-1-event-0"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-1-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-2-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-3-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-4-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-5-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-6-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-7-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-8-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-9-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-10-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-11-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-12-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-13-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-13-2-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-14-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-15-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-16-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-17-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-18-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-19-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-20-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-21-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-22-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-23-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-24-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-25-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-26-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-27-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-28-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-29-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-30-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-31-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-32-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-33-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-34-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-35-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-36-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-37-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-38-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-39-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-40-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-41-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-42-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-43-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-44-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-45-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-46-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-47-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-48-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-49-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-50-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-51-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-52-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-53-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-54-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-55-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-56-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-57-1-event-0">
+	<rdf:type rdf:resource="http://purl.org/vocab/bio/0.1/Death"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-1-1-event-0">
+	<dc:date>1844-04-28</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-2-1-event-0">
+	<dc:date>1854-12-30</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-3-1-event-0">
+	<dc:date>1855-11-06</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-4-1-event-0">
+	<dc:date>1866-11-19</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-5-1-event-0">
+	<dc:date>1869-04-03</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-6-1-event-0">
+	<dc:date>1872-08-23</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-7-1-event-0">
+	<dc:date>1873-04-15</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-8-1-event-0">
+	<dc:date>1874-05-10</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-9-1-event-0">
+	<dc:date>1875-04-09</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-10-1-event-0">
+	<dc:date>1877-03-07</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-11-1-event-0">
+	<dc:date>1877-03-19</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-12-1-event-0">
+	<dc:date>1878-05-13</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-13-1-event-0">
+	<dc:date>1879-12-08</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-13-2-event-0">
+	<dc:date>1879-12-09</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-14-1-event-0">
+	<dc:date>1882-03-16</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-15-1-event-0">
+	<dc:date>1884-01-11</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-16-1-event-0">
+	<dc:date>1885-03-20</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-17-1-event-0">
+	<dc:date>1885-06-20</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-18-1-event-0">
+	<dc:date>1889-01-17</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-19-1-event-0">
+	<dc:date>1891-06-19</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-20-1-event-0">
+	<dc:date>1894-11-11</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-21-1-event-0">
+	<dc:date>1895-03-26</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-22-1-event-0">
+	<dc:date>1898-09-10</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-23-1-event-0">
+	<dc:date>1899-03-12</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-24-1-event-0">
+	<dc:date>1899-05-25</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-25-1-event-0">
+	<dc:date>1900-03-08</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-26-1-event-0">
+	<dc:date>1902-08-19</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-27-1-event-0">
+	<dc:date>1908-01-19</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-28-1-event-0">
+	<dc:date>1911-07-23</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-29-1-event-0">
+	<dc:date>1912-03-07</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-30-1-event-0">
+	<dc:date>1912-06-25</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-31-1-event-0">
+	<dc:date>1912-12-07</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-32-1-event-0">
+	<dc:date>1915-02-15</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-33-1-event-0">
+	<dc:date>1915-03-25</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-34-1-event-0">
+	<dc:date>1915-06-14</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-35-1-event-0">
+	<dc:date>1915-07-10</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-36-1-event-0">
+	<dc:date>1919-02-21</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-37-1-event-0">
+	<dc:date>1919-03-21</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-38-1-event-0">
+	<dc:date>1919-04-30</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-39-1-event-0">
+	<dc:date>1919-05-15</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-40-1-event-0">
+	<dc:date>1921-03-17</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-41-1-event-0">
+	<dc:date>1921-09-11</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-42-1-event-0">
+	<dc:date>1922-01-19</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-43-1-event-0">
+	<dc:date>1923-01-24</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-44-1-event-0">
+	<dc:date>1924-12-20</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-45-1-event-0">
+	<dc:date>1927-02-17</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-46-1-event-0">
+	<dc:date>1927-07-07</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-47-1-event-0">
+	<dc:date>1927-09-08</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-48-1-event-0">
+	<dc:date>1928-07-18</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-49-1-event-0">
+	<dc:date>1929-01-15</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-50-1-event-0">
+	<dc:date>1929-03-04</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-51-1-event-0">
+	<dc:date>1929-06-28</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-52-1-event-0">
+	<dc:date>1929-11-12</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-53-1-event-0">
+	<dc:date>1930-12-07</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-54-1-event-0">
+	<dc:date>1931-03-30</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-55-1-event-0">
+	<dc:date>1932-06-28</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-56-1-event-0">
+	<dc:date>1937-01-28</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-3091cf617aa94b9393665f5104ca49fa-aha-57-1-event-0">
+	<dc:date>1937-02-09</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-12-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-43-1"/>
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-4-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-2-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-18-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-2-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-9-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-3-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-9-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-4-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-11-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-18-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-11-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-48-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-3-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-20-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-25-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-36-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-25-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-32-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-7-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-32-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-20-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-46-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-35-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-46-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-50-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-48-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-50-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-20-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-55-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-36-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-55-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-15-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-32-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-12-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-6-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-23-1"/>
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-24-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-6-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-49-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-57-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-33-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-15-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-39-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-49-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-41-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-12-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-43-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-45-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-49-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-49-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-41-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-15-1">
+	<rel:parentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-54-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1">
+	<rel:grandparentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-54-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1">
+	<rel:grandparentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-28-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1">
+	<rel:grandparentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-33-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-42-1">
+	<rel:grandparentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-44-1"/>
+	<rel:grandparentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-44-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1">
+	<rel:grandparentOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-54-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-3-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-1-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-3-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-18-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-4-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-8-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-6-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-7-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-6-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-8-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-10-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-7-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-14-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-17-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-4-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-18-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-26-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-19-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-36-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-20-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-48-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-10-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-17-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-19-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-26-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-35-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-27-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-45-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-55-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-30-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-42-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-31-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-51-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-32-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-52-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-34-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-27-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-35-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-20-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-36-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-56-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-40-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-31-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-42-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-45-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-47-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-46-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-46-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-47-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-48-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-32-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-51-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-34-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-52-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-30-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-55-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-40-1">
+	<rel:spouseOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-56-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-11-1">
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-2-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-6-1">
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-5-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-5-1">
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-6-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-50-1">
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-1">
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-13-2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-43-1">
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1">
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-36-1">
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-27-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-22-1">
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-29-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-27-1">
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-36-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-34-1">
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-38-1"/>
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-38-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-54-1">
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-39-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-21-1">
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-43-1"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-39-1">
+	<rel:siblingOf rdf:resource="http://www.steinheim-institut.de/cgi-bin/epidat?id=aha-54-1"/>
+</rdf:Description>
+
+</rdf:RDF>

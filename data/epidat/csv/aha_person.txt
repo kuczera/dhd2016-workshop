@@ -1,0 +1,53 @@
+nodeID,name,geschlecht,sterbedatum
+aha-1-1,Ascher ben Binjamin Efraim,männlich,1844-04-28
+aha-2-1,David ben Schlomo Halevi,männlich,1854-12-30
+aha-3-1,Hanna bat Elieser,weiblich,1855-11-06
+aha-4-1,Schlomo ben Awraham SeGal,männlich,1866-11-19
+aha-5-1,Pinchas ben Awraham Halevi,männlich,1869-04-03
+aha-6-1,Aharon ben Awraham Halevi,männlich,1872-08-23
+aha-7-1,Fradche bat Schlomo &#x26ad; Mosche ben Ascher,weiblich,1873-04-15
+aha-8-1,Ester bat Jechiel,weiblich,1874-05-10
+aha-9-1,David ben Ascher Gumpert,männlich,1875-04-09
+aha-10-1,Bula bat Juda &#x26ad; Mosche Löwenstein,weiblich,1877-03-07
+aha-11-1,Kalonymos ben Schlomo Halevi,männlich,1877-03-19
+aha-12-1,Perla &#x26ad; Elieser Hakohen,weiblich,1878-05-13
+aha-13-1,Elieser ben Josef Hakohen,männlich,1879-12-08
+aha-13-2,Jehuda,männlich,1879-12-09
+aha-14-1,Mosche ben Ascher Gumpert,männlich,1882-03-16
+aha-15-1,Rechle bat Naftali &#x26ad; Elieser ben Ascher Gumpert,weiblich,1884-01-11
+aha-16-1,Sprinz bat Jizchak,weiblich,1885-03-20
+aha-17-1,Süss'che bat Essriel,weiblich,1885-06-20
+aha-18-1,Bräunsche bat Jizchak,weiblich,1889-01-17
+aha-19-1,Pinchas ben Mosche,männlich,1891-06-19
+aha-21-1,Josef ben Elieser Hakohen,männlich,1895-03-26
+aha-22-1,Mosche ben Aharon Halevi,männlich,1898-09-10
+aha-23-1,Jette bat Schlomo Halevi,weiblich,1899-03-12
+aha-24-1,Aharon ben Schlomo Halevi,männlich,1899-05-25
+aha-25-1,Elieser Jaakow ben Efraim,männlich,1900-03-08
+aha-26-1,Reis'che bat Jizchak,weiblich,1902-08-19
+aha-27-1,Jehuda ben Menachem Landau,männlich,1908-01-19
+aha-28-1,Mosche ben Awraham Halevi,männlich,1911-07-23
+aha-29-1,Schlomo ben Aharon Halevi,männlich,1912-03-07
+aha-30-1,Etel bat Mosche,weiblich,1912-06-25
+aha-32-1,Ascher ben Mosche,männlich,1915-02-15
+aha-34-1,Jekutiel ben Refael Halevi,männlich,1915-06-14
+aha-35-1,Rös'che bat Josef,weiblich,1915-07-10
+aha-36-1,Reis'che bat Menachem,weiblich,1919-02-21
+aha-37-1,Efraim ben Refael Halevi,männlich,1919-03-21
+aha-38-1,Hindel bat Refael Halevi,weiblich,1919-04-30
+aha-39-1,Naftali ben Elieser,männlich,1919-05-15
+aha-40-1,Hanche bat Jaakow,weiblich,1921-03-17
+aha-42-1,Schimon ben Mosche,männlich,1922-01-19
+aha-43-1,Gudle bat Elieser Hakohen,weiblich,1923-01-24
+aha-45-1,Riwka bat Hunja Hakohen,weiblich,1927-02-17
+aha-46-1,Josef ben Efraim,männlich,1927-07-07
+aha-47-1,Bella bat Gerschon,weiblich,1927-09-08
+aha-48-1,Jettle bat Jischai,weiblich,1928-07-18
+aha-49-1,Bula bat Zwi,weiblich,1929-01-15
+aha-50-1,Jischai ben Josef Hakohen,männlich,1929-03-04
+aha-51-1,Fradche bat Natan,weiblich,1929-06-28
+aha-52-1,Tirza &#x26ad; Schlösser,weiblich,1929-11-12
+aha-54-1,Ascher ben Elieser,männlich,1931-03-30
+aha-55-1,Jizchak ben Efraim,männlich,1932-06-28
+aha-56-1,Mosche ben Schlomo Halevi,männlich,1937-01-28
+aha-57-1,Gitel bat Jizchak,weiblich,1937-02-09

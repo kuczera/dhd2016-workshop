@@ -3786,7 +3786,7 @@
 
 					this.fireListener('ready');
 				},
-				{ Dracula: 'http://www.data2000.no/sgvizler/lib/raphael-dracula.min.js' }
+				{ Dracula: '../../js/raphael-dracula.min.js' }
 		);
 
 		/**

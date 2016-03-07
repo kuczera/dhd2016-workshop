@@ -1,0 +1,16 @@
+geschwister1,geschwister2
+aha-11-1,aha-2-1
+aha-6-1,aha-5-1
+aha-5-1,aha-6-1
+aha-50-1,aha-13-1
+aha-13-1,aha-13-2
+aha-43-1,aha-21-1
+aha-29-1,aha-22-1
+aha-36-1,aha-27-1
+aha-22-1,aha-29-1
+aha-27-1,aha-36-1
+aha-34-1,aha-38-1
+aha-34-1,aha-38-1
+aha-54-1,aha-39-1
+aha-21-1,aha-43-1
+aha-39-1,aha-54-1

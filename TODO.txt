@@ -1,8 +1,1 @@
-- get the rest of the data
-
 - finish raw steps to reproduce for last six diagramms
-- aha sgvizler
-
-- local versions of
--- xtriples (!)
--- raw
