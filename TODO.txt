@@ -1,7 +1,6 @@
 - get the rest of the data
-- finish tool index and main index
+
 - finish raw steps to reproduce for last six diagramms
-- include impress.js presentation
 - aha sgvizler
 
 - local versions of
