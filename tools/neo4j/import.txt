@@ -1,5 +1,5 @@
 // Delete All
-MATCH (n) OPTIONAL MATCH (n)-[r]-() DELETE n,r;
+MATCH (n) DETACH DELETE n;
 
 // Index
 CREATE INDEX ON :Person(id);
